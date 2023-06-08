@@ -1,0 +1,421 @@
+Original Hashtags,Hashtag,Words
+"1. #Love - love
+",#Love,['love']
+"2. #InstaGood - insta, good
+",#InstaGood,"['insta', 'good']"
+"3. #PhotoOfTheDay - photo, day
+",#PhotoOfTheDay,"['photo', 'day']"
+"4. #Fashion - fashion
+",#Fashion,['fashion']
+"5. #Beautiful - beautiful
+",#Beautiful,['beautiful']
+"6. #Happy - happy
+",#Happy,['happy']
+"7. #Art - art
+",#Art,['art']
+"8. #Food - food
+",#Food,['food']
+"9. #Travel - travel
+",#Travel,['travel']
+"10. #Nature - nature
+",#Nature,['nature']
+"11. #Fitness - fitness
+",#Fitness,['fitness']
+"12. #Motivation - motivation
+",#Motivation,['motivation']
+"13. #Style - style
+",#Style,['style']
+"14. #Selfie - selfie
+",#Selfie,['selfie']
+"15. #Cute - cute
+",#Cute,['cute']
+"16. #Friend - friend
+",#Friend,['friend']
+"17. #Family - family
+",#Family,['family']
+"18. #Sunset - sunset
+",#Sunset,['sunset']
+"19. #Adventure - adventure
+",#Adventure,['adventure']
+"20. #Throwback - throwback
+",#Throwback,['throwback']
+"21. #Music - music
+",#Music,['music']
+"22. #Summer - summer
+",#Summer,['summer']
+"23. #Quote - quote
+",#Quote,['quote']
+"24. #Inspiration - inspiration
+",#Inspiration,['inspiration']
+"25. #Explore - explore
+",#Explore,['explore']
+"26. #Beach - beach
+",#Beach,['beach']
+"27. #Follow - follow
+",#Follow,['follow']
+"28. #Like - like
+",#Like,['like']
+"29. #Lifestyle - lifestyle
+",#Lifestyle,['lifestyle']
+"30. #Photography - photography
+",#Photography,['photography']
+"31. #Bless - bless
+",#Bless,['bless']
+"32. #Goal - goal
+",#Goal,['goal']
+"33. #Workout - workout
+",#Workout,['workout']
+"34. #Vacation - vacation
+",#Vacation,['vacation']
+"35. #Vibe - vibe
+",#Vibe,['vibe']
+"36. #Dog - dog
+",#Dog,['dog']
+"37. #Cat - cat
+",#Cat,['cat']
+"38. #Sunny - sunny
+",#Sunny,['sunny']
+"39. #Street - street
+",#Street,['street']
+"40. #Health - health
+",#Health,['health']
+"41. #Life - life
+",#Life,['life']
+"42. #Foodie - foodie
+",#Foodie,['foodie']
+"43. #Pic - pic
+",#Pic,['pic']
+"44. #Makeup - makeup
+",#Makeup,['makeup']
+"45. #Shop - shop
+",#Shop,['shop']
+"46. #Morning - morning
+",#Morning,['morning']
+"47. #Happiness - happiness
+",#Happiness,['happiness']
+"48. #Fit - fit
+",#Fit,['fit']
+"49. #Sunrise - sunrise
+",#Sunrise,['sunrise']
+"50. #Pet - pet
+",#Pet,['pet']
+"51. #Friendship - friendship
+",#Friendship,['friendship']
+"52. #Smile - smile
+",#Smile,['smile']
+"53. #BeautifulDay - beautiful, day
+",#BeautifulDay,"['beautiful', 'day']"
+"54. #Friday - friday
+",#Friday,['friday']
+"55. #Girl - girl
+",#Girl,['girl']
+"56. #Boy - boy
+",#Boy,['boy']
+"57. #Weekend - weekend
+",#Weekend,['weekend']
+"58. #City - city
+",#City,['city']
+"59. #Home - home
+",#Home,['home']
+"60. #GoodVibes - good, vibe
+",#GoodVibes,"['good', 'vibe']"
+"61. #AdventureTime - adventure, time
+",#AdventureTime,"['adventure', 'time']"
+"62. #Fashionista - fashionista
+",#Fashionista,['fashionista']
+"63. #Gym - gym
+",#Gym,['gym']
+"64. #Travelgram - travelgram
+",#Travelgram,['travelgram']
+"65. #Natural - natural
+",#Natural,['natural']
+"66. #InstaLife - insta, life
+",#InstaLife,"['insta', 'life']"
+"67. #FitnessMotivation - fitness, motivation
+",#FitnessMotivation,"['fitness', 'motivation']"
+"68. #StyleInspiration - style, inspiration
+",#StyleInspiration,"['style', 'inspiration']"
+"69. #ThrowbackThursday - throwback, thursday
+",#ThrowbackThursday,"['throwback', 'thursday']"
+"70. #MusicLover - music, lover
+",#MusicLover,"['music', 'lover']"
+"71. #SunsetLove - sunset, love
+",#SunsetLove,"['sunset', 'love']"
+"72. #Inspirational - inspirational
+",#Inspirational,['inspirational']
+"73. #FamilyTime - family, time
+",#FamilyTime,"['family', 'time']"
+"74. #GoodTimes - good, time
+",#GoodTimes,"['good', 'time']"
+"75. #FitnessJourney - fitness, journey
+",#FitnessJourney,"['fitness', 'journey']"
+"76. #SelfLove - self, love
+",#SelfLove,"['self', 'love']"
+"77. #FriendshipGoals - friendship, goal
+",#FriendshipGoals,"['friendship', 'goal']"
+"78. #Healthy - healthy
+",#Healthy,['healthy']
+"79. #Traveler - traveler
+",#Traveler,['traveler']
+"80. #NatureLovers - nature, lover
+",#NatureLovers,"['nature', 'lover']"
+"81. #FitnessGoals - fitness, goal
+",#FitnessGoals,"['fitness', 'goal']"
+"82. #MondayMotivation - monday, motivation
+",#MondayMotivation,"['monday', 'motivation']"
+"83. #WeekendVibes - weekend, vibe
+",#WeekendVibes,"['weekend', 'vibe']"
+"84. #InstaDaily - insta, daily
+",#InstaDaily,"['insta', 'daily']"
+"85. #FitnessLife - fitness, life
+",#FitnessLife,"['fitness', 'life']"
+"86. #WorkoutMotivation - workout, motivation
+",#WorkoutMotivation,"['workout', 'motivation']"
+"87. #FamilyFirst - family, first
+",#FamilyFirst,"['family', 'first']"
+"88. #BeachLife - beach, life
+",#BeachLife,"['beach', 'life']"
+"89. #SundayFunday - sunday, funday
+",#SundayFunday,"['sunday', 'funday']"
+"90. #LoveYourself - love, yourself
+",#LoveYourself,"['love', 'yourself']"
+"91. #Beauty - beauty
+",#Beauty,['beauty']
+"92. #TravelAddict - travel, addict
+",#TravelAddict,"['travel', 'addict']"
+"93. #NaturePhotography - nature, photography
+",#NaturePhotography,"['nature', 'photography']"
+"94. #FitFam - fit, fam
+",#FitFam,"['fit', 'fam']"
+"95. #InstaPic - insta, pic
+",#InstaPic,"['insta', 'pic']"
+"96. #SmileMore - smile, more
+",#SmileMore,"['smile', 'more']"
+"97. #Coffee - coffee
+",#Coffee,['coffee']
+"98. #FashionStyle - fashion, style
+",#FashionStyle,"['fashion', 'style']"
+"99. #FoodPorn - food, porn
+",#FoodPorn,"['food', 'porn']"
+"100. #WeekendGetaway - weekend, getaway
+",#WeekendGetaway,"['weekend', 'getaway']"
+"101. #TravelDiary - travel, diary
+",#TravelDiary,"['travel', 'diary']"
+"102. #HealthyLifestyle - healthy, lifestyle
+",#HealthyLifestyle,"['healthy', 'lifestyle']"
+"103. #SummerVibes - summer, vibe
+",#SummerVibes,"['summer', 'vibe']"
+"104. #FitnessAddict - fitness, addict
+",#FitnessAddict,"['fitness', 'addict']"
+"105. #WorkoutTime - workout, time
+",#WorkoutTime,"['workout', 'time']"
+"106. #FamilyLove - family, love
+",#FamilyLove,"['family', 'love']"
+"107. #AdventureSeeker - adventure, seeker
+",#AdventureSeeker,"['adventure', 'seeker']"
+"108. #PositiveVibes - positive, vibe
+",#PositiveVibes,"['positive', 'vibe']"
+"109. #ThrowbackMemories - throwback, memory
+",#ThrowbackMemories,"['throwback', 'memory']"
+"110. #ArtLover - art, lover
+",#ArtLover,"['art', 'lover']"
+"111. #FoodPhotography - food, photography
+",#FoodPhotography,"['food', 'photography']"
+"112. #Wanderlust - wanderlust
+",#Wanderlust,['wanderlust']
+"113. #FitnessInspo - fitness, inspo
+",#FitnessInspo,"['fitness', 'inspo']"
+"114. #SundayBrunch - sunday, brunch
+",#SundayBrunch,"['sunday', 'brunch']"
+"115. #TravelLife - travel, life
+",#TravelLife,"['travel', 'life']"
+"116. #NatureViews - nature, view
+",#NatureViews,"['nature', 'view']"
+"117. #FitFamCommunity - fit, fam, community
+",#FitFamCommunity,"['fit', 'fam', 'community']"
+"118. #Motivational - motivational
+",#Motivational,['motivational']
+"120. #FoodieLife - foodie, life
+",#FoodieLife,"['foodie', 'life']"
+"121. #AdventureLife - adventure, life
+",#AdventureLife,"['adventure', 'life']"
+"122. #BeautifulPlaces - beautiful, place
+",#BeautifulPlaces,"['beautiful', 'place']"
+"123. #TravelGram - travel, gram
+",#TravelGram,"['travel', 'gram']"
+"124. #FitnessLifestyle - fitness, lifestyle
+",#FitnessLifestyle,"['fitness', 'lifestyle']"
+"125. #PositiveMindset - positive, mindset
+",#PositiveMindset,"['positive', 'mindset']"
+"126. #NatureLover - nature, lover
+",#NatureLover,"['nature', 'lover']"
+"127. #Artistic - artistic
+",#Artistic,['artistic']
+"128. #FoodGasm - food, gasm
+",#FoodGasm,"['food', 'gasm']"
+"129. #HealthyFood - healthy, food
+",#HealthyFood,"['healthy', 'food']"
+"130. #FitLife - fit, life
+",#FitLife,"['fit', 'life']"
+"131. #ExploreMore - explore, more
+",#ExploreMore,"['explore', 'more']"
+"133. #BeachVibes - beach, vibe
+",#BeachVibes,"['beach', 'vibe']"
+"134. #FamilyFirstAlways - family, first, always
+",#FamilyFirstAlways,"['family', 'first', 'always']"
+"135. #GoodVibesOnly - good, vibe, only
+",#GoodVibesOnly,"['good', 'vibe', 'only']"
+"136. #TravelBug - travel, bug
+",#TravelBug,"['travel', 'bug']"
+"137. #FitnessFreak - fitness, freak
+",#FitnessFreak,"['fitness', 'freak']"
+"138. #Motivated - motivated
+",#Motivated,['motivated']
+"139. #StyleIcon - style, icon
+",#StyleIcon,"['style', 'icon']"
+"141. #ThrowbackMoments - throwback, moment
+",#ThrowbackMoments,"['throwback', 'moment']"
+"142. #MusicMood - music, mood
+",#MusicMood,"['music', 'mood']"
+"143. #SummerDays - summer, day
+",#SummerDays,"['summer', 'day']"
+"144. #QuoteOfTheDay - quote, day
+",#QuoteOfTheDay,"['quote', 'day']"
+"145. #InstaLifeStyle - insta, lifestyle
+",#InstaLifeStyle,"['insta', 'lifestyle']"
+"146. #SelfieAddict - selfie, addict
+",#SelfieAddict,"['selfie', 'addict']"
+"148. #FamilyTimeIsTheBestTime - family, time, be, the, good, time
+",#FamilyTimeIsTheBestTime,"['family', 'time', 'be', 'the', 'good', 'time']"
+"149. #AdventureAwaits - adventure, await
+",#AdventureAwaits,"['adventure', 'await']"
+"150. #BeautyBlogger - beauty, blogger
+",#BeautyBlogger,"['beauty', 'blogger']"
+"151. #TravelDiaries - travel, diary
+",#TravelDiaries,"['travel', 'diary']"
+"152. #NaturePerfection - nature, perfection
+",#NaturePerfection,"['nature', 'perfection']"
+"154. #Inspire - inspire
+",#Inspire,['inspire']
+"155. #OOTDInspo - ootd, inspo
+",#OOTDInspo,"['ootd', 'inspo']"
+"156. #SunsetLover - sunset, love
+",#SunsetLover,"['sunset', 'love']"
+"160. #QuoteDaily - quote, daily
+",#QuoteDaily,"['quote', 'daily']"
+"161. #InstaLifestyle - insta, lifestyle
+",#InstaLifestyle,"['insta', 'lifestyle']"
+"162. #SelfieQueen - selfie, queen
+",#SelfieQueen,"['selfie', 'queen']"
+"166. #TBTMemories - tbt, memory
+",#TBTMemories,"['tbt', 'memory']"
+"167. #ArtLife - art, life
+",#ArtLife,"['art', 'life']"
+"172. #Inspiring - inspire
+",#Inspiring,['inspire']
+"173. #OOTDMen - ootd, men
+",#OOTDMen,"['ootd', 'men']"
+"174. #SunsetPhotography - sunset, photography
+",#SunsetPhotography,"['sunset', 'photography']"
+"176. #MusicMonday - music, monday
+",#MusicMonday,"['music', 'monday']"
+"177. #SummerVibe - summer, vibe
+",#SummerVibe,"['summer', 'vibe']"
+"178. #QuoteLove - quote, love
+",#QuoteLove,"['quote', 'love']"
+"179. #InstaHolic - insta, holic
+",#InstaHolic,"['insta', 'holic']"
+"180. #SelfieTime - selfie, time
+",#SelfieTime,"['selfie', 'time']"
+"181. #Besties - bestie
+",#Besties,['bestie']
+"183. #AdventureIsOutThere - adventure, be, out, there
+",#AdventureIsOutThere,"['adventure', 'be', 'out', 'there']"
+"184. #TBTPhoto - tbt, photo
+",#TBTPhoto,"['tbt', 'photo']"
+"185. #ArtisticExpression - artistic, expression
+",#ArtisticExpression,"['artistic', 'expression']"
+"186. #FoodieGram - foodie, gram
+",#FoodieGram,"['foodie', 'gram']"
+"187. #TravelLust - travel, lust
+",#TravelLust,"['travel', 'lust']"
+"188. #FitnessJunkie - fitness, junkie
+",#FitnessJunkie,"['fitness', 'junkie']"
+"190. #SelfieMode - selfie, mode
+",#SelfieMode,"['selfie', 'mode']"
+"191. #Cutest - cute
+",#Cutest,['cute']
+"192. #FriendshipForever - friendship, forever
+",#FriendshipForever,"['friendship', 'forever']"
+"193. #FamilyForever - family, forever
+",#FamilyForever,"['family', 'forever']"
+"194. #AdventureSeekers - adventure, seeker
+",#AdventureSeekers,"['adventure', 'seeker']"
+"195. #TBTMoment - tbt, moment
+",#TBTMoment,"['tbt', 'moment']"
+"197. #FoodHeaven - food, heaven
+",#FoodHeaven,"['food', 'heaven']"
+"198. #TravelBlogger - travel, blogger
+",#TravelBlogger,"['travel', 'blogger']"
+"200. #StyleCrush - style, crush
+",#StyleCrush,"['style', 'crush']"
+"1. #InstaLove - insta, love
+",#InstaLove,"['insta', 'love']"
+"2. #PicOfTheDay - pic, day
+",#PicOfTheDay,"['pic', 'day']"
+"3. #OOTD - ootd
+",#OOTD,['ootd']
+"4. #InstaFashion - insta, fashion
+",#InstaFashion,"['insta', 'fashion']"
+"5. #InstaBeauty - insta, beauty
+",#InstaBeauty,"['insta', 'beauty']"
+"6. #InstaHappy - insta, happy
+",#InstaHappy,"['insta', 'happy']"
+"8. #FoodGram - food, gram
+",#FoodGram,"['food', 'gram']"
+"11. #StyleInspo - style, inspo
+",#StyleInspo,"['style', 'inspo']"
+"42. #MotivationMonday - motivation, monday
+",#MotivationMonday,"['motivation', 'monday']"
+"53. #PositiveVibesOnly - positive, vibe, only
+",#PositiveVibesOnly,"['positive', 'vibe', 'only']"
+"94. #InstaGoals - insta, goal
+",#InstaGoals,"['insta', 'goal']"
+"96. #SelfieGameStrong - selfie, game, strong
+",#SelfieGameStrong,"['selfie', 'game', 'strong']"
+"98. #FoodieLove - foodie, love
+",#FoodieLove,"['foodie', 'love']"
+"102. #InstaFashionista - insta, fashionista
+",#InstaFashionista,"['insta', 'fashionista']"
+"104. #HealthyEating - healthy, eat
+",#HealthyEating,"['healthy', 'eat']"
+"110. #TravelInspiration - travel, inspiration
+",#TravelInspiration,"['travel', 'inspiration']"
+"111. #NatureGram - nature, gram
+",#NatureGram,"['nature', 'gram']"
+"114. #FamilyGoals - family, goal
+",#FamilyGoals,"['family', 'goal']"
+"116. #TBTThrowback - tbt, throwback
+",#TBTThrowback,"['tbt', 'throwback']"
+"117. #ArtisticInspiration - artistic, inspiration
+",#ArtisticInspiration,"['artistic', 'inspiration']"
+"118. #FoodieDelight - foodie, delight
+",#FoodieDelight,"['foodie', 'delight']"
+"119. #TravelPhotography - travel, photography
+",#TravelPhotography,"['travel', 'photography']"
+"120. #FitnessChallenge - fitness, challenge
+",#FitnessChallenge,"['fitness', 'challenge']"
+"121. #StyleStatement - style, statement
+",#StyleStatement,"['style', 'statement']"
+"123. #BestFriendGoals - best, friend, goal
+",#BestFriendGoals,"['best', 'friend', 'goal']"
+"124. #FamilyVacation - family, vacation
+",#FamilyVacation,"['family', 'vacation']"
+"125. #AdventureBound - adventure, bound
+",#AdventureBound,"['adventure', 'bound']"
+"126. #MotivationalQuotes - motivational, quote
+",#MotivationalQuotes,"['motivational', 'quote']"
+"127. #FashionAddict - fashion, addict
+",#FashionAddict,"['fashion', 'addict']"
+"128. #FoodLover - food, lover
+",#FoodLover,"['food', 'lover']"
