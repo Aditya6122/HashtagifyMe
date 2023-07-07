@@ -165,4 +165,5 @@ cython_debug/
 hashtagify_me
 *.pdf
 *.csv
+*.pth
 credentials.py
