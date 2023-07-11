@@ -1,10 +1,9 @@
-from threading import local
 from transformers import BlipForConditionalGeneration
 from transformers import AutoProcessor
 from transformers import AutoConfig
 import torch
 
-local_path = '../model/best_model.pth'
+local_path = 'model/best_model.pth'
 model_url = 'Salesforce/blip-image-captioning-base'
 
 def load_processor():

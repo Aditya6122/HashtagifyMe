@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Uploader</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/styles.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-primary">
+        <a class="navbar-brand" href="#">HashtagifyMe: Hashtag Generator</a>
+    </nav>
+    <div id="container">
+        <div class="upload-section">
+            <h2 style="font-family: sans-serif;font-weight: bolder ">Upload an Image</h2>
+                <div class="form-group">
+                    <input class="form-control" type="file" id="formFile" name="image">
+                </div>
+                <input class="btn btn-primary submit-button" id="submit" type="submit" value="Submit">
+                <br>
+                <h2 id='generated-hashtags-heading' class="generated-hashtags">Generated Hashtags</h2>
+                <div id="response-container"></div>
+        </div>
+        <div>
+            <img id="image-preview" src="#" alt="Preview">
+        </div>
+    </div>
+    
+    <script src="./assets/index.js"></script>
+</body>
+</html>
