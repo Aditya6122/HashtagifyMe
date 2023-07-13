@@ -27,9 +27,10 @@ def get_inference(url):
 
     hashtags = set()
     for i in caption:
-        i = i.replace(',','')
-        for j in i.split(' '):
-            hashtags.add('#'+str(j))
+        i = i.split(',')
+        for j in i:
+            j = j.replace(' ','')
+            hashtags.add('#'+j)
 
     return hashtags
 
