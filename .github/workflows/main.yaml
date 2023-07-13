@@ -21,8 +21,14 @@ jobs:
       with:
         python-version: '3.7'  
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+    - name: Install pytorch
+      run: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-    - name: Test the flask app 
+    - name: Install Hugging face dependencies
+      run: pip install transformers datasets
+
+    - name: Install Flask
+      run: pip install flask flask-cors
+
+    - name: Run flask app 
       run: python main.py
