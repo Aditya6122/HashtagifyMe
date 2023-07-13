@@ -28,7 +28,7 @@ jobs:
       run: pip install transformers datasets
 
     - name: Install Flask
-      run: pip install flask flask-cors
+      run: pip install flask flask-cors pillow
 
     - name: Run flask app 
       run: python main.py
