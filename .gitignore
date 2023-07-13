@@ -163,6 +163,7 @@ cython_debug/
 
 .vscode/
 hashtagify_me
+new_hashtag_env
 *.pdf
 *.csv
 *.pth
