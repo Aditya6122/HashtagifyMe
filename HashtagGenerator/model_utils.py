@@ -14,9 +14,14 @@ def load_model(from_local=True):
     config = AutoConfig.from_pretrained(model_url)
 
     if from_local:
-        model =  BlipForConditionalGeneration(config)
-        model.load_state_dict(torch.load(local_path))
-    else:
+        try:
+            model =  BlipForConditionalGeneration(config)
+            model.load_state_dict(torch.load(local_path))
+            return model
+        except:
+            print("model.pth not found locally")
+            print("Getting the hugging face version")
+            
         model =  BlipForConditionalGeneration.from_pretrained(model_url)
     
     return model
