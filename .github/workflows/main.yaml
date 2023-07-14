@@ -26,3 +26,6 @@ jobs:
 
     - name: Run flask app 
       run: gunicorn --workers=1 --bind 0.0.0.0:8000 main:app
+    
+    - name: Run test
+      run: python test.py
