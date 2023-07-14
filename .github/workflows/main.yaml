@@ -21,11 +21,10 @@ jobs:
       with:
         python-version: '3.7'  
 
-    - name: Create an env
-      run: python -m venv venv
-    
-    - name: activate venv
-      run: activate
+    - name: Create and activate venv
+      run: |
+        python -m venv myenv
+        source myenv/bin/activate
     
     - name: Build Docker Image
       run: docker image build -t docker-flask-test .
