@@ -22,13 +22,7 @@ jobs:
         python-version: '3.7'  
 
     - name: Install pytorch
-      run: pip3 install torch
-
-    - name: Install Hugging face dependencies
-      run: pip install transformers datasets
-
-    - name: Install Flask
-      run: pip install flask flask-cors pillow
+      run: pip install -r requirements.txt
 
     - name: Run flask app 
-      run: python main.py
+      run: gunicorn --workers=4 --bind 0.0.0.0:8000 main:app
