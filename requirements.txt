@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+flask
+flask-cors
+pillow
+gunicorn
+requests

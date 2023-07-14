@@ -14,10 +14,15 @@ def load_model(from_local=True):
     config = AutoConfig.from_pretrained(model_url)
 
     if from_local:
-        model =  BlipForConditionalGeneration(config)
-        model.load_state_dict(torch.load(local_path))
-    else:
-        model =  BlipForConditionalGeneration.from_pretrained(model_url)
+        try:
+            model =  BlipForConditionalGeneration(config)
+            model.load_state_dict(torch.load(local_path))
+            return model
+        except:
+            print("Local file for model not found !!")
+            print("Downloading the original model.")
+
+    model =  BlipForConditionalGeneration.from_pretrained(model_url)
     
     return model
 

@@ -168,3 +168,4 @@ new_hashtag_env
 *.csv
 *.pth
 credentials.py
+chat.txt

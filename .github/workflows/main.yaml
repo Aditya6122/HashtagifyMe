@@ -21,14 +21,13 @@ jobs:
       with:
         python-version: '3.7'  
 
-    - name: Install pytorch
-      run: pip3 install torch
+    - name: Build Docker Image
+      run: docker image build -t docker-flask-test .
+    - name: Run Container
+      run: docker run -p 5000:5000 -d docker-flask-test
+    
+    - name: Install requests
+      run: pip install requests
 
-    - name: Install Hugging face dependencies
-      run: pip install transformers datasets
-
-    - name: Install Flask
-      run: pip install flask flask-cors pillow
-
-    - name: Run flask app 
-      run: python main.py
+    - name: Run test
+      run: python test.py
