@@ -23,7 +23,6 @@ def load_model(from_local=True):
             print("Downloading the original model.")
 
     model =  BlipForConditionalGeneration.from_pretrained(model_url)
-    
     return model
 
 
