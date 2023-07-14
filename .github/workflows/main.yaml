@@ -27,6 +27,4 @@ jobs:
       run: docker run -p 5000:5000 -d docker-flask-test
     
     - name: Run test
-      run: |
-        pip install requests
-        python test.py
+      run: python test.py
