@@ -33,6 +33,7 @@ def load_model(from_local=True):
     warnings.warn("You are about to download the original \"BlipForConditionalGeneration\"\n \
         This behaviour is not expected unless you are training it from scratch for Hashtag generation")
     model =  BlipForConditionalGeneration.from_pretrained(model_url)
+    
     return model
 
 
