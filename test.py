@@ -5,6 +5,6 @@ image_path = "demo.png"
 
 with open(image_path, "rb") as file:
     files = {"image": file}
-    response = requests.post(url, files=files)
+    response = requests.post(url, files=files, timeout=60)
 
 print(response.text)
