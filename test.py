@@ -7,4 +7,6 @@ with open(image_path, "rb") as file:
     files = {"image": file}
     response = requests.post(url, files=files, timeout=60)
 
+print(response)
 print(response.text)
+print(response.content)
