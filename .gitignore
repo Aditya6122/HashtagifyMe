@@ -169,3 +169,4 @@ new_hashtag_env
 *.pth
 credentials.py
 chat.txt
+sensitive_urls.py
