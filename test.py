@@ -11,6 +11,7 @@ while(time<60 and flag):
         html = urlopen(url)
         flag = False
     except:
+        print("waiting..from",time+1,"seconds")
         time += 1 
 
 # with open(image_path, "rb") as file:
