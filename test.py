@@ -1,7 +1,7 @@
 import requests
 from urllib.request import urlopen
 
-url = "http://0.0.0.0:5000/predict" 
+url = "http://localhost:5000/predict" 
 image_path = "demo.png" 
 
 time = 0
@@ -17,4 +17,5 @@ while(time<60 and flag):
 # with open(image_path, "rb") as file:
 #     files = {"image": file}
 #     response = requests.post(url, files=files, timeout=60)
+
 # print(response.text)
