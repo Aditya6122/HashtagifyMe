@@ -1,7 +1,7 @@
 import requests
 from urllib.request import urlopen
 
-url = "http://app:5000/predict" 
+url = "http://0.0.0.0:5000/predict" 
 image_path = "demo.png" 
 
 time = 0
