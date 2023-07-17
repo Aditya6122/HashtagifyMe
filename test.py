@@ -13,7 +13,7 @@ while(timeout<60 and flag):
         html = urlopen(url)
         flag = False
     except:
-        print("waiting..from",time+1,"seconds")
+        print("waiting..from",timeout+1,"seconds")
         time.sleep(1)
         timeout += 1 
 
