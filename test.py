@@ -3,7 +3,7 @@ import requests
 from urllib.request import urlopen
 import time
 
-url = "http://localhost:5000/predict" 
+url = "http://0.0.0.0:5000/predict" 
 image_path = "demo.png" 
 
 timeout = 0
