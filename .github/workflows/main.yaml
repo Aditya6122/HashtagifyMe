@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    name: Hashtag Generation Successful Inference
+    name: Hashtag Generation Inference
     runs-on: ubuntu-latest
 
     steps:
