@@ -163,10 +163,8 @@ cython_debug/
 
 .vscode/
 hashtagify_me
-new_hashtag_env
+insta_scrape
 *.pdf
-*.csv
+.csv
 *.pth
 credentials.py
-chat.txt
-sensitive_urls.py

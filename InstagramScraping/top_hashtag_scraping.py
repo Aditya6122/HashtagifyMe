@@ -1,8 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 
+user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'
+header = {'User-Agent':user_agent,'charset':'UTF-8'}
+
 def scrape_instagram_hashtags(url,output_file):
-    response = requests.get(url)
+    response = requests.get(url,headers=header)
     soup = BeautifulSoup(response.text, "html.parser")
     entry_content = soup.find(class_="entry-content")
     ol_elements = entry_content.find_all("ol")
