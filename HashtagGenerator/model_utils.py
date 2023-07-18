@@ -2,11 +2,8 @@ from transformers import BlipForConditionalGeneration
 from transformers import AutoProcessor
 from transformers import AutoConfig
 import torch
-import gdown
-import os
-import warnings
 
-local_path = 'model/new_model.pth'
+local_path = 'model/best_model.pth'
 model_url = 'Salesforce/blip-image-captioning-base'
 
 def load_processor():
@@ -33,7 +30,6 @@ def load_model(from_local=True):
 
     warnings.warn("You are about to download the original \"BlipForConditionalGeneration\"\n \
         This behaviour is not expected unless you are training the from scratch for Hashtag generation")
-
     model =  BlipForConditionalGeneration.from_pretrained(model_url)
 
     return model
