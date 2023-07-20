@@ -1,9 +1,6 @@
 import re
 import pandas as pd
 
-with open('separated_hashtags.txt','r') as f:
-    hashtags = f.readlines()
-
 def clean_text(text):
     text = re.sub(r'^.*?#', '#', text)
     hashtag, words = text.split(":")
@@ -12,6 +9,9 @@ def clean_text(text):
     words = words.split(' ')
     words = [i for i in words if len(i)!=0]
     return hashtag, words
+
+with open('separated_hashtags.txt','r') as f:
+    hashtags = f.readlines()
 
 data = {}
 for i in range(len(hashtags)):

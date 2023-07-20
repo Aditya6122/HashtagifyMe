@@ -1,0 +1,1384 @@
+hashtag,words
+#love,['love']
+#instagood,['instagood']
+#photooftheday,"['photo', 'of', 'the', 'day']"
+#tbt,['tbt']
+#selfie,['selfie']
+#art,['art']
+#friends,['friends']
+#repost,['repost']
+#nature,['nature']
+#style,['style']
+#food,['food']
+#family,['family']
+#travel,['travel']
+#fitness,['fitness']
+#worldcup,['worldcup']
+#life,['life']
+#beauty,['beauty']
+#amazing,['amazing']
+#photography,['photography']
+#motivation,['motivation']
+#followforfollow,['followforfollow']
+#lifestyle,['lifestyle']
+#design,['design']
+#gym,['gym']
+#toofunny,"['too', 'funny']"
+#handmade,['handmade']
+#hair,['hair']
+#vscocam,['vscocam']
+#bestoftheday,"['best', 'of', 'the', 'day']"
+#vsco,['vsco']
+#funny,['funny']
+#dogsofinstagram,"['dogs', 'of', 'instagram']"
+#drawing,['drawing']
+#photographer,['photographer']
+#instafood,"['insta', 'food']"
+#party,['party']
+#inspiration,['inspiration']
+#lol,['LOL']
+#cool,['cool']
+#workout,['workout']
+#swag,['swag']
+#healthy,['healthy']
+#yummy,['yummy']
+#foodie,['foodie']
+#insta,['insta']
+#home,['home']
+#igers,['igers']
+#instagram,['instagram']
+#music,['music']
+#makeup,['makeup']
+#reelstrending,"['reels', 'trending']"
+#funnyreels,"['funny', 'reels']"
+#viralreels,"['viral', 'reels']"
+#reelsofinstagram,"['reels', 'of', 'instagram']"
+#instagramreels,"['instagram', 'reels']"
+#dancereels,"['dance', 'reels']"
+#travelreels,"['travel', 'reels']"
+#calisthenics,['calisthenics']
+#funnyvideos,"['funny', 'videos']"
+#boss,['boss']
+#boys,['boys']
+#jump,['jump']
+#catlovers,"['cat', 'lovers']"
+#fly,['fly']
+#dachshund,['dachshund']
+#workoutmotivation,"['workout', 'motivation']"
+#kitten,['kitten']
+#bodypositive,"['body', 'positive']"
+#animal,['animal']
+#reels,['reels']
+#naturephotography,"['nature', 'photography']"
+#landscapephotography,"['landscape', 'photography']"
+#portraitphotography,"['portrait', 'photography']"
+#travelphotography,"['travel', 'photography']"
+#blackandwhitephotography,"['black', 'and', 'white', 'photography']"
+#streetphotography,"['street', 'photography']"
+#artphotography,"['art', 'photography']"
+#macrophotography,"['macro', 'photography']"
+#wildlifephotography,"['wildlife', 'photography']"
+#weddingphotography,"['wedding', 'photography']"
+#fashionphotography,"['fashion', 'photography']"
+#nightphotography,"['night', 'photography']"
+#filmphotography,"['film', 'photography']"
+#iphonephotography,"['iPhone', 'photography']"
+#architecturephotography,"['architecture', 'photography']"
+#photographylovers,"['photography', 'lovers']"
+#foodphotography,"['food', 'photography']"
+#selfies,['selfies']
+#selfietime,"['selfie', 'time']"
+#selfienation,"['selfie', 'nation']"
+#selfiequeen,"['selfie', 'queen']"
+#selfieking,"['selfie', 'king']"
+#selfieaddict,"['selfie', 'addict']"
+#selfieoftheday,"['selfie', 'of', 'the', 'day']"
+#selfielove,"['selfie', 'love']"
+#selfiegram,"['selfie', 'gram']"
+#selfiegamestrong,"['selfie', 'game', 'strong']"
+#selfiegirl,"['selfie', 'girl']"
+#selfiemood,"['selfie', 'mood']"
+#selfieworld,"['selfie', 'world']"
+#selfiee,['selfiee']
+#selfiecentral,"['selfie', 'central']"
+#selfiemania,"['selfie', 'mania']"
+#selfiemirror,"['selfie', 'mirror']"
+#selfiepower,"['selfie', 'power']"
+#selfieobsessed,"['selfie', 'obsessed']"
+#reelsinstagram,"['reels', 'instagram']"
+#reelsvideo,"['reels', 'video']"
+#reelsindia,"['reels', 'india']"
+#reelsviral,"['reels', 'viral']"
+#reelsdance,"['reels', 'dance']"
+#reelsmusic,"['reels', 'music']"
+#reelsfunny,"['reels', 'funny']"
+#reelslife,"['reels', 'life']"
+#reelschallenge,"['reels', 'challenge']"
+#reelscommunity,"['reels', 'community']"
+#reelsclip,"['reels', 'clip']"
+#reelitfeelit,"['reel', 'it', 'feel', 'it']"
+#reelsoftheday,"['reels', 'of', 'the', 'day']"
+#reelsmood,"['reels', 'mood']"
+#reelsofig,"['reels', 'o', 'fig']"
+#reelsmania,"['reels', 'mania']"
+#reelworld,"['reel', 'world']"
+#instareels,"['insta', 'reels']"
+#influencerlife,"['influencer', 'life']"
+#influencerstyle,"['influencer', 'style']"
+#influencermarketinghub,"['influencer', 'marketing', 'hub']"
+#influenceragency,"['influencer', 'agency']"
+#influencerlifestyle,"['influencer', 'lifestyle']"
+#influencerfashion,"['influencer', 'fashion']"
+#influencerphotography,"['influencer', 'photography']"
+#influencerbusiness,"['influencer', 'business']"
+#influencerswanted,"['influencers', 'wanted']"
+#influencerwork,"['influencer', 'work']"
+#influencerblogger,"['influencer', 'blogger']"
+#sponsored,['sponsored']
+#brandambassador,"['brand', 'ambassador']"
+#collaboration,['collaboration']
+#ad,['ad']
+#partnership,['partnership']
+#promo,['promo']
+#affiliatemarketing,"['affiliate', 'marketing']"
+#influencermarketing,"['influencer', 'marketing']"
+#influencers,['influencers']
+#fashionable,['fashionable']
+#fashiongram,"['fashion', 'gram']"
+#fashiondesigner,"['fashion', 'designer']"
+#fashionweek,"['fashion', 'week']"
+#fashionstyle,"['fashion', 'style']"
+#fashioninspo,"['fashion', 'inspo']"
+#fashiondaily,"['fashion', 'daily']"
+#fashionablelife,"['fashionable', 'life']"
+#fashionaddict,"['fashion', 'addict']"
+#fashionmodel,"['fashion', 'model']"
+#fashionlover,"['fashion', 'lover']"
+#fashionblog,"['fashion', 'blog']"
+#fashionista,['fashionista']
+#outfitoftheday,"['outfit', 'of', 'the', 'day']"
+#fashionblogger,"['fashion', 'blogger']"
+#streetstyle,"['street', 'style']"
+#beautybloggers,"['beauty', 'bloggers']"
+#beautyful,['beautyful']
+#beautycare,"['beauty', 'care']"
+#beautyguru,"['beauty', 'guru']"
+#beautyjunkie,"['beauty', 'junkie']"
+#beautylaunchpad,"['beauty', 'launchpad']"
+#beautylover,"['beauty', 'lover']"
+#beautyreview,"['beauty', 'review']"
+#beautysecret,"['beauty', 'secret']"
+#beautyskin,"['beauty', 'skin']"
+#beautytips,"['beauty', 'tips']"
+#beautyblog,"['beauty', 'blog']"
+#makeupartist,"['makeup', 'artist']"
+#makeupjunkie,"['makeup', 'junkie']"
+#makeuplover,"['makeup', 'lover']"
+#makeupoftheday,"['makeup', 'of', 'the', 'day']"
+#makeupaddict,"['makeup', 'addict']"
+#makeuptutorial,"['makeup', 'tutorial']"
+#cosmetics,['cosmetics']
+#travelgram,"['travel', 'gram']"
+#wanderlust,['wanderlust']
+#adventure,['adventure']
+#explore,['explore']
+#traveling,['traveling']
+#instatravel,"['insta', 'travel']"
+#traveler,['traveler']
+#vacation,['vacation']
+#holiday,['holiday']
+#travelling,['travelling']
+#travelblogger,"['travel', 'blogger']"
+#tourism,['tourism']
+#traveltheworld,"['travel', 'the', 'world']"
+#traveladdict,"['travel', 'addict']"
+#passportready,"['passport', 'ready']"
+#travelholic,"['travel', 'holic']"
+#travelguide,"['travel', 'guide']"
+#hospitality,['hospitality']
+#hotel,['hotel']
+#luxury,['luxury']
+#hotels,['hotels']
+#resort,['resort']
+#spa,['spa']
+#guests,['guests']
+#frontdesk,"['front', 'desk']"
+#concierge,['concierge']
+#restaurant,['restaurant']
+#hospitalityindustry,"['hospitality', 'industry']"
+#hotelier,['hotelier']
+#guestservice,"['guest', 'service']"
+#service,['service']
+#hospitalitylife,"['hospitality', 'life']"
+#hospitalitymanagement,"['hospitality', 'management']"
+#hotellife,"['hotel', 'life']"
+#foodporn,"['food', 'porn']"
+#yum,['yum']
+#foodstagram,"['food', 'stagram']"
+#delicious,['delicious']
+#foodblogger,"['food', 'blogger']"
+#foodlover,"['food', 'lover']"
+#foodgasm,"['food', 'gasm']"
+#foodgram,"['food', 'gram']"
+#foodpics,"['food', 'pics']"
+#foodstyle,"['food', 'style']"
+#foodblog,"['food', 'blog']"
+#foodiesofinstagram,"['foodies', 'of', 'instagram']"
+#foodpic,"['food', 'pic']"
+#foodislife,"['food', 'is', 'life']"
+#foodilove,"['food', 'I', 'love']"
+#fooddiary,"['food', 'diary']"
+#drink,['drink']
+#cocktail,['cocktail']
+#drinks,['drinks']
+#bar,['bar']
+#bartender,['bartender']
+#drinkup,"['drink', 'up']"
+#happyhour,"['happy', 'hour']"
+#beer,['beer']
+#wine,['wine']
+#spirits,['spirits']
+#mixology,['mixology']
+#drinkstagram,"['drink', 'stagram']"
+#cocktails,['cocktails']
+#bartenderlife,"['bartender', 'life']"
+#drinkporn,"['drink', 'porn']"
+#cocktailtime,"['cocktail', 'time']"
+#cocktailhour,"['cocktail', 'hour']"
+#winelover,"['wine', 'lover']"
+#brewery,['brewery']
+#craftbeer,"['craft', 'beer']"
+#cooking,['cooking']
+#chef,['chef']
+#cook,['cook']
+#recipe,['recipe']
+#homecooking,"['home', 'cooking']"
+#cookingathome,"['cooking', 'at', 'home']"
+#homechef,"['home', 'chef']"
+#healthyfood,"['healthy', 'food']"
+#homemade,['homemade']
+#cookingtime,"['cooking', 'time']"
+#kitchen,['kitchen']
+#vegan,['vegan']
+#plantbased,"['plant', 'based']"
+#veganfood,"['vegan', 'food']"
+#veganrecipes,"['vegan', 'recipes']"
+#veganlife,"['vegan', 'life']"
+#veganism,['veganism']
+#veganfoodshare,"['vegan', 'food', 'share']"
+#whatveganseat,"['what', 'vegan', 'eat']"
+#vegancommunity,"['vegan', 'community']"
+#veganfoodporn,"['vegan', 'food', 'porn']"
+#vegansofig,"['vegans', 'ofig']"
+#veganlifestyle,"['vegan', 'lifestyle']"
+#veganfitness,"['vegan', 'fitness']"
+#vegetarian,['vegetarian']
+#veggies,['veggies']
+#vegetarianrecipes,"['vegetarian', 'recipes']"
+#healthylifestyle,"['healthy', 'lifestyle']"
+#meatlessmonday,"['meatless', 'monday']"
+#crueltyfree,"['cruelty', 'free']"
+#fitnessmotivation,"['fitness', 'motivation']"
+#fitfam,"['fit', 'fam']"
+#fitspo,['fitspo']
+#fitnessmodel,"['fitness', 'model']"
+#fitnessjourney,"['fitness', 'journey']"
+#fitnesslife,"['fitness', 'life']"
+#fitlife,"['fit', 'life']"
+#fitnessaddict,"['fitness', 'addict']"
+#fitnessgirl,"['fitness', 'girl']"
+#fitnessgoals,"['fitness', 'goals']"
+#gymlife,"['gym', 'life']"
+#health,['health']
+#exercise,['exercise']
+#fit,['fit']
+#cardio,['cardio']
+#muscle,['muscle']
+#sports,['sports']
+#athlete,['athlete']
+#training,['training']
+#sport,['sport']
+#bodybuilding,['bodybuilding']
+#football,['football']
+#basketball,['basketball']
+#baseball,['baseball']
+#running,['running']
+#soccer,['soccer']
+#gaming,['gaming']
+#games,['games']
+#gamestagram,['gamestagram']
+#gamer,['gamer']
+#gamerlife,"['gamer', 'life']"
+#videogames,"['video', 'games']"
+#gamersofinstagram,"['gamers', 'of', 'instagram']"
+#gamingcommunity,"['gaming', 'community']"
+#pcgaming,"['pc', 'gaming']"
+#playstation,['playstation']
+#xbox,['xbox']
+#nintendo,['nintendo']
+#gamergirl,"['gamer', 'girl']"
+#twitch,['twitch']
+#streamer,['streamer']
+#gamingsetup,"['gaming', 'setup']"
+#gamingmemes,"['gaming', 'memes']"
+#gaminglife,"['gaming', 'life']"
+#gamingphotography,"['gaming', 'photography']"
+#gamingclips,"['gaming', 'clips']"
+#mentalhealth,"['mental', 'health']"
+#selfcare,"['self', 'care']"
+#mentalhealthawareness,"['mental', 'health', 'awareness']"
+#anxiety,['anxiety']
+#depression,['depression']
+#mentalhealthmatters,"['mental', 'health', 'matters']"
+#therapy,['therapy']
+#mindfulness,['mindfulness']
+#selflove,"['self', 'love']"
+#mentalillness,"['mental', 'illness']"
+#wellness,['wellness']
+#mentalhealthsupport,"['mental', 'health', 'support']"
+#mentalhealthrecovery,"['mental', 'health', 'recovery']"
+#selfhelp,"['self', 'help']"
+#mentalhealthwarrior,"['mental', 'health', 'warrior']"
+#mentalhealthadvocate,"['mental', 'health', 'advocate']"
+#ptsd,['PTSD']
+#mentalhealthjourney,"['mental', 'health', 'journey']"
+#mentalhealthtips,"['mental', 'health', 'tips']"
+#success,['success']
+#motivationalquotes,"['motivational', 'quotes']"
+#mindset,['mindset']
+#positivevibes,"['positive', 'vibes']"
+#goals,['goals']
+#entrepreneur,['entrepreneur']
+#inspirationalquotes,"['inspirational', 'quotes']"
+#inspire,['inspire']
+#selfimprovement,"['self', 'improvement']"
+#quotes,['quotes']
+#hardwork,"['hard', 'work']"
+#dedication,['dedication']
+#dreambig,"['dream', 'big']"
+#hustle,['hustle']
+#nevergiveup,"['never', 'give', 'up']"
+#positivity,['positivity']
+#believeinyourself,"['believe', 'in', 'yourself']"
+#bodypositivity,"['body', 'positivity']"
+#selfacceptance,"['self', 'acceptance']"
+#selfconfidence,"['self', 'confidence']"
+#confidence,['confidence']
+#loveyourself,"['love', 'yourself']"
+#selfworth,"['self', 'worth']"
+#selfcompassion,"['self', 'compassion']"
+#selfesteem,"['self', 'esteem']"
+#gratitude,['gratitude']
+#youareenough,"['you', 'are', 'enough']"
+#selfempowerment,"['self', 'empowerment']"
+#innerpeace,"['inner', 'peace']"
+#happiness,['happiness']
+#meditation,['meditation']
+#relaxation,['relaxation']
+#yoga,['yoga']
+#stressrelief,"['stress', 'relief']"
+#calm,['calm']
+#peace,['peace']
+#zen,['zen']
+#mindful,['mindful']
+#chill,['chill']
+#quietthemind,"['quiet', 'the', 'mind']"
+#breathe,['breathe']
+#meditate,['meditate']
+#namaste,['namaste']
+#mindandbody,"['mind', 'and', 'body']"
+#pets,['pets']
+#petsofinstagram,"['pets', 'of', 'instagram']"
+#catsofinstagram,"['cats', 'of', 'instagram']"
+#animallovers,"['animal', 'lovers']"
+#petsagram,['petsagram']
+#dogstagram,['dogstagram']
+#catstagram,['catstagram']
+#petlovers,"['pet', 'lovers']"
+#doglovers,"['dog', 'lovers']"
+#petphotography,"['pet', 'photography']"
+#petsofig,"['pets', 'ofig']"
+#petlife,"['pet', 'life']"
+#petoftheday,"['pet', 'of', 'the', 'day']"
+#animalsofinstagram,"['animals', 'of', 'instagram']"
+#furbaby,"['fur', 'baby']"
+#petfriendly,"['pet', 'friendly']"
+#cutepets,"['cute', 'pets']"
+#petscorner,"['pets', 'corner']"
+#dogs,['dogs']
+#puppy,['puppy']
+#puppiesofinstagram,"['puppies', 'of', 'instagram']"
+#doglife,"['dog', 'life']"
+#doglove,"['dog', 'love']"
+#puppers,['puppers']
+#doggo,['doggo']
+#dogoftheday,"['dog', 'of', 'the', 'day']"
+#dogphotography,"['dog', 'photography']"
+#mansbestfriend,"[""man's"", 'best', 'friend']"
+#ilovemydog,"['I', 'love', 'my', 'dog']"
+#dogsofig,"['dogs', 'ofig']"
+#dogsofinsta,"['dogs', 'ofinsta']"
+#instadog,['instadog']
+#dogsonadventures,"['dogs', 'on', 'adventures']"
+#dogmom,"['dog', 'mom']"
+#cats,['cats']
+#cat,['cat']
+#kittens,['kittens']
+#catlife,"['cat', 'life']"
+#meow,['meow']
+#catoftheday,"['cat', 'of', 'the', 'day']"
+#catphotography,"['cat', 'photography']"
+#cutecats,"['cute', 'cats']"
+#catsofig,"['cats', 'ofig']"
+#instacat,['instacat']
+#catlove,"['cat', 'love']"
+#kittylove,"['kitty', 'love']"
+#ilovecats,"['I', 'love', 'cats']"
+#catworld,"['cat', 'world']"
+#kitty,['kitty']
+#summer,['summer']
+#summertime,['summertime']
+#beach,['beach']
+#sun,['sun']
+#summerfun,"['summer', 'fun']"
+#pool,['pool']
+#hot,['hot']
+#sunny,['sunny']
+#sunkissed,"['sun', 'kissed']"
+#ocean,['ocean']
+#summerdays,"['summer', 'days']"
+#tanning,['tanning']
+#swimming,['swimming']
+#summervibes,"['summer', 'vibes']"
+#funinthesun,"['fun', 'in', 'the', 'sun']"
+#summernights,"['summer', 'nights']"
+#spring,['spring']
+#springtime,['springtime']
+#flowers,['flowers']
+#blossom,['blossom']
+#springflowers,"['spring', 'flowers']"
+#tulips,['tulips']
+#cherryblossom,"['cherry', 'blossom']"
+#blooming,['blooming']
+#springbreak,"['spring', 'break']"
+#flowerstagram,"['flowers', 'stagram']"
+#springfever,"['spring', 'fever']"
+#springisintheair,"['spring', 'is', 'in', 'the', 'air']"
+#springvibes,"['spring', 'vibes']"
+#springmood,"['spring', 'mood']"
+#springday,"['spring', 'day']"
+#sunshine,['sunshine']
+#fresh,['fresh']
+#newbeginnings,"['new', 'beginnings']"
+#autumn,['autumn']
+#fall,['fall']
+#leaves,['leaves']
+#pumpkin,['pumpkin']
+#autumnvibes,"['autumn', 'vibes']"
+#foliage,['foliage']
+#october,['October']
+#cozy,['cozy']
+#seasons,['seasons']
+#sweaterweather,"['sweater', 'weather']"
+#harvest,['harvest']
+#autumncolors,"['autumn', 'colors']"
+#halloween,['Halloween']
+#thanksgiving,['Thanksgiving']
+#applepicking,"['apple', 'picking']"
+#pumpkinspice,"['pumpkin', 'spice']"
+#falloween,"['fall', 'Halloween']"
+#hayrides,['hayrides']
+#crisp,['crisp']
+#winter,['winter']
+#snow,['snow']
+#christmas,['Christmas']
+#cold,['cold']
+#winterwonderland,"['winter', 'wonderland']"
+#ice,['ice']
+#wintertime,"['winter', 'time']"
+#snowday,"['snow', 'day']"
+#season,['season']
+#santa,['Santa']
+#skiing,['skiing']
+#snowflakes,['snowflakes']
+#snowy,['snowy']
+#december,['December']
+#festive,['festive']
+#christmastime,"['Christmas', 'time']"
+#winterfashion,"['winter', 'fashion']"
+#newyear,"['new', 'year']"
+#landscape,['landscape']
+#outdoors,['outdoors']
+#hiking,['hiking']
+#mountains,['mountains']
+#naturelovers,"['nature', 'lovers']"
+#trees,['trees']
+#earth,['earth']
+#scenery,['scenery']
+#sunset,['sunset']
+#sky,['sky']
+#wildlife,['wildlife']
+#forest,['forest']
+#couple,['couple']
+#couplesgoals,"['couples', 'goals']"
+#relationshipgoals,"['relationship', 'goals']"
+#couplegoals,"['couple', 'goals']"
+#couplephotography,"['couple', 'photography']"
+#couplelove,"['couple', 'love']"
+#together,['together']
+#romance,['romance']
+#cute,['cute']
+#loveyou,"['love', 'you']"
+#coupletime,"['couple', 'time']"
+#couplelife,"['couple', 'life']"
+#couplepic,"['couple', 'pic']"
+#coupletravel,"['couple', 'travel']"
+#lovers,['lovers']
+#valentinesday,"[""Valentine's"", 'day']"
+#forever,['forever']
+#marriage,['marriage']
+#wedding,['wedding']
+#bride,['bride']
+#groom,['groom']
+#weddingday,"['wedding', 'day']"
+#weddingdress,"['wedding', 'dress']"
+#bridetobe,"['bride', 'to', 'be']"
+#weddinginspiration,"['wedding', 'inspiration']"
+#weddinglove,"['wedding', 'love']"
+#weddinggoals,"['wedding', 'goals']"
+#brideandgroom,"['bride', 'and', 'groom']"
+#bridesmaid,['bridesmaid']
+#weddingparty,"['wedding', 'party']"
+#ido,"['I', 'do']"
+#bridal,['bridal']
+#anniversary,['anniversary']
+#familytime,"['family', 'time']"
+#familylove,"['family', 'love']"
+#familyphotography,"['family', 'photography']"
+#familygoals,"['family', 'goals']"
+#familypic,"['family', 'pic']"
+#familylife,"['family', 'life']"
+#familyfun,"['family', 'fun']"
+#familyfirst,"['family', 'first']"
+#parenthood,['parenthood']
+#parents,['parents']
+#momlife,"['mom', 'life']"
+#dadlife,"['dad', 'life']"
+#parenting,['parenting']
+#moments,['moments']
+#sibling,['sibling']
+#brother,['brother']
+#sister,['sister']
+#sistersquad,"['sister', 'squad']"
+#brothersister,"['brother', 'sister']"
+#siblinglove,"['sibling', 'love']"
+#besties,['besties']
+#friendship,['friendship']
+#friendshipgoals,"['friendship', 'goals']"
+#bff,['BFF']
+#bestfriends,"['best', 'friends']"
+#friendshipforever,"['friendship', 'forever']"
+#friendshipquotes,"['friendship', 'quotes']"
+#friendshiplove,"['friendship', 'love']"
+#friendsforlife,"['friends', 'for', 'life']"
+#friendstime,"['friends', 'time']"
+#friendsquad,"['friend', 'squad']"
+#friendshipday,"['friendship', 'day']"
+#bffs,['BFFs']
+#friendsgiving,['friendsgiving']
+#laughter,['laughter']
+#smile,['smile']
+#happy,['happy']
+#joy,['joy']
+#fun,['fun']
+#celebrate,['celebrate']
+#goodtimes,"['good', 'times']"
+#weekend,['weekend']
+#memories,['memories']
+#goodvibes,"['good', 'vibes']"
+#enjoy,['enjoy']
+#cheers,['cheers']
+#laughterismedicine,"['laughter', 'is', 'medicine']"
+#goodfriends,"['good', 'friends']"
+#positive,['positive']
+#halloweencostume,"['Halloween', 'costume']"
+#trickortreat,"['trick', 'or', 'treat']"
+#spooky,['spooky']
+#halloweenmakeup,"['Halloween', 'makeup']"
+#halloweentime,"['Halloween', 'time']"
+#halloweenparty,"['Halloween', 'party']"
+#halloweenfun,"['Halloween', 'fun']"
+#horror,['horror']
+#halloween2021,"['Halloween', '2021']"
+#happyhalloween,"['happy', 'Halloween']"
+#witch,['witch']
+#ghost,['ghost']
+#halloweennight,"['Halloween', 'night']"
+#halloweenweekend,"['Halloween', 'weekend']"
+#jackolantern,"[""jack-o'-lantern""]"
+#halloweendecorations,"['Halloween', 'decorations']"
+#halloweenideas,"['Halloween', 'ideas']"
+#cupid,['cupid']
+#heart,['heart']
+#happyvalentinesday,"['happy', ""Valentine's"", 'day']"
+#hugs,['hugs']
+#kisses,['kisses']
+#gifts,['gifts']
+#red,['red']
+#sweetheart,['sweetheart']
+#bemine,"['be', 'mine']"
+#heartfelt,['heartfelt']
+#romantic,['romantic']
+#newyearseve,"['New', ""Year's"", 'Eve']"
+#celebration,['celebration']
+#countdown,['countdown']
+#champagne,['champagne']
+#resolution,['resolution']
+#fireworks,['fireworks']
+#happynewyear,"['happy', 'New', 'Year']"
+#confetti,['confetti']
+#festivities,['festivities']
+#goodbye2022,"['goodbye', '2022']"
+#hello2023,"['hello', '2023']"
+#toasting,['toasting']
+#birthday,['birthday']
+#happybirthday,"['happy', 'birthday']"
+#birthdaygirl,"['birthday', 'girl']"
+#birthdayboy,"['birthday', 'boy']"
+#birthdayparty,"['birthday', 'party']"
+#birthdaycake,"['birthday', 'cake']"
+#birthdayfun,"['birthday', 'fun']"
+#birthdaylove,"['birthday', 'love']"
+#birthdaywishes,"['birthday', 'wishes']"
+#birthdayweekend,"['birthday', 'weekend']"
+#birthdaymonth,"['birthday', 'month']"
+#birthdayvibes,"['birthday', 'vibes']"
+#birthdaycelebration,"['birthday', 'celebration']"
+#birthdaymemories,"['birthday', 'memories']"
+#birthdaybash,"['birthday', 'bash']"
+#birthdayqueen,"['birthday', 'queen']"
+#birthdayking,"['birthday', 'king']"
+#easter,['Easter']
+#eastersunday,"['Easter', 'Sunday']"
+#bunny,['bunny']
+#egg,['egg']
+#hoppyeaster,"['hoppy', 'Easter']"
+#pastel,['pastel']
+#easterbunny,"['Easter', 'bunny']"
+#easterbasket,"['Easter', 'basket']"
+#easterfun,"['Easter', 'fun']"
+#easterdecor,"['Easter', 'decor']"
+#eastereggs,"['Easter', 'eggs']"
+#easterweekend,"['Easter', 'weekend']"
+#easterbrunch,"['Easter', 'brunch']"
+#easterflowers,"['Easter', 'flowers']"
+#easterchicks,"['Easter', 'chicks']"
+#easterjoy,"['Easter', 'joy']"
+#easterlove,"['Easter', 'love']"
+#merrychristmas,"['Merry', 'Christmas']"
+#christmastree,"['Christmas', 'tree']"
+#christmaslights,"['Christmas', 'lights']"
+#santaclaus,"['Santa', 'Claus']"
+#christmasdecor,"['Christmas', 'decor']"
+#jinglebells,"['jingle', 'bells']"
+#christmasspirit,"['Christmas', 'spirit']"
+#tistheseason,"[""'tis"", 'the', 'season']"
+#holidayseason,"['holiday', 'season']"
+#holidaycheer,"['holiday', 'cheer']"
+#yuletide,['Yuletide']
+#happyholidays,"['happy', 'holidays']"
+#grateful,['grateful']
+#blessed,['blessed']
+#turkey,['turkey']
+#pumpkinpie,"['pumpkin', 'pie']"
+#thankful,['thankful']
+#thanksgivingdinner,"['Thanksgiving', 'dinner']"
+#thanksgivingfeast,"['Thanksgiving', 'feast']"
+#cornucopia,['cornucopia']
+#feastmode,"['feast', 'mode']"
+#givethanks,"['give', 'thanks']"
+#thanksgivingday,"['Thanksgiving', 'day']"
+#thanksgiving2023,"['Thanksgiving', '2023']"
+#turkeyday,"['turkey', 'day']"
+#happythanksgiving,"['happy', 'Thanksgiving']"
+#event,['event']
+#eventplanning,"['event', 'planning']"
+#eventpromotion,"['event', 'promotion']"
+#eventprofs,"['event', 'professionals']"
+#eventmanagement,"['event', 'management']"
+#eventmarketing,"['event', 'marketing']"
+#eventplanner,"['event', 'planner']"
+#eventdesign,"['event', 'design']"
+#eventdecor,"['event', 'decor']"
+#eventphotography,"['event', 'photography']"
+#eventtechnology,"['event', 'technology']"
+#eventinspiration,"['event', 'inspiration']"
+#eventideas,"['event', 'ideas']"
+#eventsetup,"['event', 'setup']"
+#eventorganizer,"['event', 'organizer']"
+#corporateevents,"['corporate', 'events']"
+#eventcatering,"['event', 'catering']"
+#eventstyling,"['event', 'styling']"
+#eventhost,"['event', 'host']"
+#eventcoordinator,"['event', 'coordinator']"
+#coffee,['coffee']
+#morningcoffee,"['morning', 'coffee']"
+#coffeelover,"['coffee', 'lover']"
+#coffeetime,"['coffee', 'time']"
+#coffeeaddict,"['coffee', 'addict']"
+#coffeegram,"['coffee', 'gram']"
+#coffeeholic,"['coffee', 'holic']"
+#coffeemug,"['coffee', 'mug']"
+#coffeeoftheday,"['coffee', 'of', 'the', 'day']"
+#coffeeshop,"['coffee', 'shop']"
+#coffeebreak,"['coffee', 'break']"
+#coffeecup,"['coffee', 'cup']"
+#coffeeplease,"['coffee', 'please']"
+#coffeelife,"['coffee', 'life']"
+#coffee_inst,"['coffee', 'Insta']"
+#butfirstcoffee,"['but', 'first', 'coffee']"
+#coffeemoment,"['coffee', 'moment']"
+#coffeeislife,"['coffee', 'is', 'life']"
+#coffeeart,"['coffee', 'art']"
+#coffeegeek,"['coffee', 'geek']"
+#monday,['Monday']
+#motivationmonday,"['motivation', 'Monday']"
+#mondayblues,"['Monday', 'blues']"
+#manicmonday,"['manic', 'Monday']"
+#mondaymood,"['Monday', 'mood']"
+#mondayfunday,"['Monday', 'fun', 'day']"
+#mondaymorning,"['Monday', 'morning']"
+#mondayvibes,"['Monday', 'vibes']"
+#tuesday,['Tuesday']
+#transformationtuesday,"['transformation', 'Tuesday']"
+#tacotuesday,"['Taco', 'Tuesday']"
+#traveltuesday,"['Travel', 'Tuesday']"
+#tuesdaytip,"['Tuesday', 'tip']"
+#tuesdaytreat,"['Tuesday', 'treat']"
+#wednesday,['Wednesday']
+#humpday,"['hump', 'day']"
+#wednesdaywisdom,"['Wednesday', 'wisdom']"
+#wellnesswednesday,"['wellness', 'Wednesday']"
+#winewednesday,"['Wine', 'Wednesday']"
+#throwbackthursday,"['throwback', 'Thursday']"
+#musician,['musician']
+#musiclover,"['music', 'lover']"
+#musicvideo,"['music', 'video']"
+#musicproduction,"['music', 'production']"
+#musicislife,"['music', 'is', 'life']"
+#musicphotography,"['music', 'photography']"
+#musicfestival,"['music', 'festival']"
+#musica,['mÃºsica']
+#musicmonday,"['music', 'Monday']"
+#musicianlife,"['musician', 'life']"
+#musicproducer,"['music', 'producer']"
+#musicart,"['music', 'art']"
+#musictherapy,"['music', 'therapy']"
+#musiccommunity,"['music', 'community']"
+#musicinspiration,"['music', 'inspiration']"
+#musicforever,"['music', 'forever']"
+#musicindustry,"['music', 'industry']"
+#musicfans,"['music', 'fans']"
+#musicoftheday,"['music', 'of', 'the', 'day']"
+#dance,['dance']
+#dancer,['dancer']
+#dancefloor,"['dance', 'floor']"
+#dancestudio,"['dance', 'studio']"
+#danceclass,"['dance', 'class']"
+#danceperformance,"['dance', 'performance']"
+#dancestyle,"['dance', 'style']"
+#dancelife,"['dance', 'life']"
+#danceislife,"['dance', 'is', 'life']"
+#danceschool,"['dance', 'school']"
+#dancemoves,"['dance', 'moves']"
+#dancerecital,"['dance', 'recital']"
+#danceshoes,"['dance', 'shoes']"
+#dancecompetition,"['dance', 'competition']"
+#dancelove,"['dance', 'love']"
+#danceparty,"['dance', 'party']"
+#dancecommunity,"['dance', 'community']"
+#dancedaily,"['dance', 'daily']"
+#dancechoreography,"['dance', 'choreography']"
+#danceinspiration,"['dance', 'inspiration']"
+#dancegoals,"['dance', 'goals']"
+#dancevideo,"['dance', 'video']"
+#fitgirl,"['fit', 'girl']"
+#fitdude,"['fit', 'dude']"
+#fitspiration,"['fit', 'spiration']"
+#fitbody,"['fit', 'body']"
+#fitnesstips,"['fitness', 'tips']"
+#active,['active']
+#getfit,"['get', 'fit']"
+#fitnesstrainer,"['fitness', 'trainer']"
+#healthyliving,"['healthy', 'living']"
+#workouttime,"['workout', 'time']"
+#fitnessequipment,"['fitness', 'equipment']"
+#fitnesstrack,"['fitness', 'track']"
+#gymtime,"['gym', 'time']"
+#fitnesstrends,"['fitness', 'trends']"
+#fitnessinspiration,"['fitness', 'inspiration']"
+#workoutoftheday,"['workout', 'of', 'the', 'day']"
+#arteducation,"['art', 'education']"
+#artexhibition,"['art', 'exhibition']"
+#artshow,"['art', 'show']"
+#artinspiration,"['art', 'inspiration']"
+#artworld,"['art', 'world']"
+#artstyle,"['art', 'style']"
+#artstagram,"['art', 'Instagram']"
+#artforsale,"['art', 'for', 'sale']"
+#artcollection,"['art', 'collection']"
+#book,['book']
+#bookstagram,"['book', 'Instagram']"
+#booklover,"['book', 'lover']"
+#bookworm,"['book', 'worm']"
+#bookish,['bookish']
+#bookshelf,['bookshelf']
+#booknerd,"['book', 'nerd']"
+#bookaddict,"['book', 'addict']"
+#bookphotography,"['book', 'photography']"
+#booksofinstagram,"['book', 'Instagram']"
+#bookcommunity,"['book', 'community']"
+#bookobsessed,"['book', 'obsessed']"
+#bookclub,"['book', 'club']"
+#booknerdigans,"['book', 'nerds']"
+#bookquote,"['book', 'quote']"
+#booklove,"['book', 'love']"
+#bookrecommendation,"['book', 'recommendation']"
+#bookcollection,"['book', 'collection']"
+#bookblogger,"['book', 'blogger']"
+#bookreview,"['book', 'review']"
+#quote,['quote']
+#quotestoliveby,"['quotes', 'to', 'live', 'by']"
+#encouragement,['encouragement']
+#lifegoals,"['life', 'goals']"
+#wisdom,['wisdom']
+#movie,['movie']
+#movies,['movies']
+#film,['film']
+#cinema,['cinema']
+#movienight,"['movie', 'night']"
+#movieaddict,"['movie', 'addict']"
+#moviejunkie,"['movie', 'junkie']"
+#filmaddict,"['film', 'addict']"
+#moviequotes,"['movie', 'quotes']"
+#tvshow,"['TV', 'show']"
+#tvseries,"['TV', 'series']"
+#bingewatching,"['binge', 'watching']"
+#netflixandchill,"['Netflix', 'and', 'chill']"
+#movieoftheday,"['movie', 'of', 'the', 'day']"
+#hollywood,['Hollywood']
+#blockbuster,['blockbuster']
+#cinematography,['cinematography']
+#filmcommunity,"['film', 'community']"
+#tvaddict,"['TV', 'addict']"
+#entertainment,['entertainment']
+#lgbt,['LGBT']
+#lgbtq,['LGBTQ']
+#lgbtqia,['LGBTQIA']
+#pride,['pride']
+#queer,['queer']
+#loveislove,"['love', 'is', 'love']"
+#gay,['gay']
+#lesbian,['lesbian']
+#transgender,['transgender']
+#pansexual,['pansexual']
+#nonbinary,['nonbinary']
+#genderfluid,['genderfluid']
+#comingout,"['coming', 'out']"
+#equality,['equality']
+#rainbow,['rainbow']
+#dragqueen,"['drag', 'queen']"
+#transpride,"['trans', 'pride']"
+#bipride,"['bi', 'pride']"
+#ace,['ace']
+#lgbtqcommunity,"['LGBTQ', 'community']"
+#humor,['humor']
+#hilarious,['hilarious']
+#funnymemes,"['funny', 'memes']"
+#jokes,['jokes']
+#laugh,['laugh']
+#comedy,['comedy']
+#funnyposts,"['funny', 'posts']"
+#memesdaily,"['memes', 'daily']"
+#funnyaf,"['funny', 'AF']"
+#funnyisfunny,"['funny', 'is', 'funny']"
+#funnypic,"['funny', 'pic']"
+#funnypost,"['funny', 'post']"
+#funnymeme,"['funny', 'meme']"
+#funnystuff,"['funny', 'stuff']"
+#silly,['silly']
+#laughs,['laughs']
+#funnyasheck,"['funny', 'as', 'heck']"
+#memes,['memes']
+#dankmemes,"['dank', 'memes']"
+#memestagram,"['meme', 'Instagram']"
+#memepage,"['meme', 'page']"
+#memer,['memer']
+#memehumor,"['meme', 'humor']"
+#memeseveryday,"['memes', 'everyday']"
+#memelord,"['meme', 'lord']"
+#relatablememes,"['relatable', 'memes']"
+#memeaccount,"['meme', 'account']"
+#memesofinstagram,"['memes', 'Instagram']"
+#memecentral,"['meme', 'central']"
+#memesquad,"['meme', 'squad']"
+#memefunny,"['meme', 'funny']"
+#memegram,"['meme', 'gram']"
+#memeaddict,"['meme', 'addict']"
+#savage,['savage']
+#memesrlife,"['memes', 'are', 'life']"
+#creativity,['creativity']
+#creativelife,"['creative', 'life']"
+#creativeprocess,"['creative', 'process']"
+#creativeminds,"['creative', 'minds']"
+#creativecommunity,"['creative', 'community']"
+#artistic,['artistic']
+#artoftheday,"['art', 'of', 'the', 'day']"
+#creativityfound,"['creativity', 'found']"
+#creativethinking,"['creative', 'thinking']"
+#createeveryday,"['create', 'everyday']"
+#creativelifestyle,"['creative', 'lifestyle']"
+#creativityatitsbest,"['creativity', 'at', 'its', 'best']"
+#creativegrammer,"['creative', 'grammer']"
+#creativemoments,"['creative', 'moments']"
+#createcultivate,"['create', 'cultivate']"
+#creativityrocks,"['creativity', 'rocks']"
+#creativehappylife,"['creative', 'happy', 'life']"
+#creativitymatters,"['creativity', 'matters']"
+#creativeflow,"['creative', 'flow']"
+#education,['education']
+#student,['student']
+#study,['study']
+#college,['college']
+#learning,['learning']
+#teachersofinstagram,"['teachers', 'of', 'Instagram']"
+#classroom,['classroom']
+#homework,['homework']
+#schoolsupplies,"['school', 'supplies']"
+#backtoschool,"['back', 'to', 'school']"
+#studygram,"['study', 'Instagram']"
+#schoolwork,"['school', 'work']"
+#university,['university']
+#learningisfun,"['learning', 'is', 'fun']"
+#schoolfun,"['school', 'fun']"
+#schoolmemories,"['school', 'memories']"
+#studytips,"['study', 'tips']"
+#graduation,['graduation']
+#schoolofinstagram,"['school', 'of', 'Instagram']"
+#classof2023,"['class', 'of', '2023']"
+#graduation2023,"['graduation', '2023']"
+#graduationday,"['graduation', 'day']"
+#graduationpictures,"['graduation', 'pictures']"
+#congratulations,['congratulations']
+#grad,['grad']
+#graduationparty,"['graduation', 'party']"
+#graduationcap,"['graduation', 'cap']"
+#seniorpictures,"['senior', 'pictures']"
+#highschoolgraduation,"['high', 'school', 'graduation']"
+#collegegraduation,"['college', 'graduation']"
+#graduates,['graduates']
+#graduationphotos,"['graduation', 'photos']"
+#graduationceremony,"['graduation', 'ceremony']"
+#graduationweekend,"['graduation', 'weekend']"
+#graduationmemories,"['graduation', 'memories']"
+#graduacion,['graduacion']
+#graduationpost,"['graduation', 'post']"
+#graduationphoto,"['graduation', 'photo']"
+#teaching,['teaching']
+#educationmatters,"['education', 'matters']"
+#educationforall,"['education', 'for', 'all']"
+#onlinelearning,"['online', 'learning']"
+#school,['school']
+#edchat,['edchat']
+#teacherlife,"['teacher', 'life']"
+#educationreform,"['education', 'reform']"
+#educational,['educational']
+#edtech,['edtech']
+#knowledgeispower,"['knowledge', 'is', 'power']"
+#educationquotes,"['education', 'quotes']"
+#educationfirst,"['education', 'first']"
+#educat,['educat']
+#business,['business']
+#smallbusiness,"['small', 'business']"
+#startup,['startup']
+#businessowner,"['business', 'owner']"
+#marketing,['marketing']
+#entrepreneurship,['entrepreneurship']
+#businesswoman,"['business', 'woman']"
+#businessman,"['business', 'man']"
+#digitalmarketing,"['digital', 'marketing']"
+#branding,['branding']
+#businesscoach,"['business', 'coach']"
+#businesstips,"['business', 'tips']"
+#businessstrategy,"['business', 'strategy']"
+#leadership,['leadership']
+#businessmindset,"['business', 'mindset']"
+#workfromhome,"['work', 'from', 'home']"
+#businessgrowth,"['business', 'growth']"
+#creativebusinessideas,"['creative', 'business', 'ideas']"
+#startupadvice,"['startup', 'advice']"
+#entrepreneurship101,"['entrepreneurship', '101']"
+#startupsuccess,"['startup', 'success']"
+#businessplan,"['business', 'plan']"
+#entrepreneurmindset,"['entrepreneur', 'mindset']"
+#businessopportunities,"['business', 'opportunities']"
+#innovation,['innovation']
+#ideageneration,"['idea', 'generation']"
+#entrepreneurgoals,"['entrepreneur', 'goals']"
+#newbusinessideas,"['new', 'business', 'ideas']"
+#businessinspiration,"['business', 'inspiration']"
+#marketingstrategy,"['marketing', 'strategy']"
+#consumermarketing,"['consumer', 'marketing']"
+#customeracquisition,"['customer', 'acquisition']"
+#ecommerce,['ecommerce']
+#marketingtips,"['marketing', 'tips']"
+#brandawareness,"['brand', 'awareness']"
+#marketingfunnel,"['marketing', 'funnel']"
+#businessideas,"['business', 'ideas']"
+#startupideas,"['startup', 'ideas']"
+#entrepreneurideas,"['entrepreneur', 'ideas']"
+#smallbusinessideas,"['small', 'business', 'ideas']"
+#ideastostartup,"['ideas', 'to', 'startup']"
+#entrepreneurlife,"['entrepreneur', 'life']"
+#venturecapital,"['venture', 'capital']"
+#angelinvestor,"['angel', 'investor']"
+#startupnation,"['startup', 'nation']"
+#SaaS,"['SaaS', '(Software', 'as', 'a', 'Service)']"
+#softwareasaservice,"['software', 'as', 'a', 'service']"
+#cloudcomputing,"['cloud', 'computing']"
+#productivitytools,"['productivity', 'tools']"
+#onlinesoftware,"['online', 'software']"
+#businesssoftware,"['business', 'software']"
+#salesautomation,"['sales', 'automation']"
+#CRM,"['CRM', '(Customer', 'Relationship', 'Management)']"
+#businesstools,"['business', 'tools']"
+#invoicingsoftware,"['invoicing', 'software']"
+#socialmediamarketing,"['social', 'media', 'marketing']"
+#socialmedia,"['social', 'media']"
+#contentmarketing,"['content', 'marketing']"
+#instagrammarketing,"['Instagram', 'marketing']"
+#socialmediatips,"['social', 'media', 'tips']"
+#socialmediastrategy,"['social', 'media', 'strategy']"
+#socialmediaexpert,"['social', 'media', 'expert']"
+#socialmediaagency,"['social', 'media', 'agency']"
+#onlinemarketing,"['online', 'marketing']"
+#socialmediamanager,"['social', 'media', 'manager']"
+#socialmediaforbusiness,"['social', 'media', 'for', 'business']"
+#smm,"['SMM', '(Social', 'Media', 'Marketing)']"
+#digitalmarketingtips,"['digital', 'marketing', 'tips']"
+#socialmediacampaign,"['social', 'media', 'campaign']"
+#socialmediaconsultant,"['social', 'media', 'consultant']"
+#socialmediamarketingtips,"['social', 'media', 'marketing', 'tips']"
+#socialmediapost,"['social', 'media', 'post']"
+#onlineadvertising,"['online', 'advertising']"
+#advertising,['advertising']
+#PPC,"['PPC', '(Pay-Per-Click)']"
+#SEM,"['SEM', '(Search', 'Engine', 'Marketing)']"
+#GoogleAds,"['Google', 'Ads']"
+#FacebookAds,"['Facebook', 'Ads']"
+#InstagramAds,"['Instagram', 'Ads']"
+#displayadvertising,"['display', 'advertising']"
+#mobileadvertising,"['mobile', 'advertising']"
+#programmatic,['programmatic']
+#retargeting,['retargeting']
+#bannerads,"['banner', 'ads']"
+#nativeads,"['native', 'ads']"
+#videomarketing,"['video', 'marketing']"
+#adnetwork,"['ad', 'network']"
+#advertisingagency,"['advertising', 'agency']"
+#advertisingcampaign,"['advertising', 'campaign']"
+#advertisingonline,"['advertising', 'online']"
+#tech,['tech']
+#technology,['technology']
+#gadgets,['gadgets']
+#technews,"['tech', 'news']"
+#techtrends,"['tech', 'trends']"
+#futuretech,"['future', 'tech']"
+#techgadgets,"['tech', 'gadgets']"
+#smarttech,"['smart', 'tech']"
+#wearabletech,"['wearable', 'tech']"
+#digitaltechnology,"['digital', 'technology']"
+#techlover,"['tech', 'lover']"
+#gadgetaddict,"['gadget', 'addict']"
+#technologyrocks,"['technology', 'rocks']"
+#techlife,"['tech', 'life']"
+#techcommunity,"['tech', 'community']"
+#latesttechnology,"['latest', 'technology']"
+#geeklife,"['geek', 'life']"
+#techgeek,"['tech', 'geek']"
+#techobsessed,"['tech', 'obsessed']"
+#videoproduction,"['video', 'production']"
+#videoediting,"['video', 'editing']"
+#filmproduction,"['film', 'production']"
+#videographer,['videographer']
+#filmmaking,['filmmaking']
+#videocontent,"['video', 'content']"
+#creativevideo,"['creative', 'video']"
+#videooftheday,"['video', 'of', 'the', 'day']"
+#digitalvideo,"['digital', 'video']"
+#viralvideo,"['viral', 'video']"
+#videography,['videography']
+#videomaker,"['video', 'maker']"
+#videoinspiration,"['video', 'inspiration']"
+#videoart,"['video', 'art']"
+#videocreation,"['video', 'creation']"
+#videoproducer,"['video', 'producer']"
+#videoedits,"['video', 'edits']"
+#videoadvertising,"['video', 'advertising']"
+#podcast,['podcast']
+#podcasting,['podcasting']
+#podcaster,['podcaster']
+#podcastersofinstagram,"['podcasters', 'of', 'Instagram']"
+#podcastlife,"['podcast', 'life']"
+#podcastlove,"['podcast', 'love']"
+#podcastshow,"['podcast', 'show']"
+#podcastcommunity,"['podcast', 'community']"
+#podcastrecommendation,"['podcast', 'recommendation']"
+#podcastaddict,"['podcast', 'addict']"
+#podcasthost,"['podcast', 'host']"
+#podcastepisode,"['podcast', 'episode']"
+#podcastersunite,"['podcasters', 'unite']"
+#podcastjunkie,"['podcast', 'junkie']"
+#podcastinglife,"['podcasting', 'life']"
+#podcastingtips,"['podcasting', 'tips']"
+#podcastingstudio,"['podcasting', 'studio']"
+#podcastday,"['podcast', 'day']"
+#podcastinterview,"['podcast', 'interview']"
+#podcastproduction,"['podcast', 'production']"
+#contentcreation,"['content', 'creation']"
+#contentstrategy,"['content', 'strategy']"
+#contentcreator,"['content', 'creator']"
+#digitalcontent,"['digital', 'content']"
+#marketingcontent,"['marketing', 'content']"
+#contentideas,"['content', 'ideas']"
+#contentplanning,"['content', 'planning']"
+#contentwriters,"['content', 'writers']"
+#creativecontent,"['creative', 'content']"
+#visualcontent,"['visual', 'content']"
+#contenttips,"['content', 'tips']"
+#contentmarketingtips,"['content', 'marketing', 'tips']"
+#contentmarketingstrategy,"['content', 'marketing', 'strategy']"
+#contentmanager,"['content', 'manager']"
+#contentwriter,"['content', 'writer']"
+#contentproduction,"['content', 'production']"
+#contentdevelopment,"['content', 'development']"
+#contentcuration,"['content', 'curation']"
+#contentinspiration,"['content', 'inspiration']"
+#blog,['blog']
+#blogging,['blogging']
+#bloggersofinstagram,"['bloggers', 'of', 'Instagram']"
+#bloglife,"['blog', 'life']"
+#blogpost,"['blog', 'post']"
+#bloggerslife,"['bloggers', 'life']"
+#bloggingcommunity,"['blogging', 'community']"
+#bloggersofig,"['bloggers', 'ofig']"
+#bloggersgetsocial,"['bloggers', 'get', 'social']"
+#bloggingtips,"['blogging', 'tips']"
+#bloggerstyle,"['blogger', 'style']"
+#bloggerlife,"['blogger', 'life']"
+#bloggershare,"['bloggers', 'share']"
+#bloggerswanted,"['bloggers', 'wanted']"
+#bloggerlifestyle,"['blogger', 'lifestyle']"
+#bloggersofcolor,"['bloggers', 'of', 'color']"
+#bloggingcommunityofcolor,"['blogging', 'community', 'of', 'color']"
+#bloggergirl,"['blogger', 'girl']"
+#bloggerlove,"['blogger', 'love']"
+#blogginggals,"['blogging', 'gals']"
+#remotework,"['remote', 'work']"
+#digitalnomad,"['digital', 'nomad']"
+#remotelife,"['remote', 'life']"
+#remoteteam,"['remote', 'team']"
+#remoteworking,"['remote', 'working']"
+#workfromanywhere,"['work', 'from', 'anywhere']"
+#locationindependent,"['location', 'independent']"
+#remoteworklife,"['remote', 'work', 'life']"
+#remoteworker,"['remote', 'worker']"
+#workremotely,"['work', 'remotely']"
+#workfromhomelife,"['work', 'from', 'home', 'life']"
+#workfromhomemom,"['work', 'from', 'home', 'mom']"
+#remoteprojects,"['remote', 'projects']"
+#remotemom,"['remote', 'mom']"
+#remotesuccess,"['remote', 'success']"
+#remotetips,"['remote', 'tips']"
+#remoteworkers,"['remote', 'workers']"
+#remoteteambuilding,"['remote', 'team', 'building']"
+#remotemomlife,"['remote', 'mom', 'life']"
+#financialplanning,"['financial', 'planning']"
+#financialfreedom,"['financial', 'freedom']"
+#personalfinance,"['personal', 'finance']"
+#moneymindset,"['money', 'mindset']"
+#financialgoals,"['financial', 'goals']"
+#financialliteracy,"['financial', 'literacy']"
+#budgeting,['budgeting']
+#investing,['investing']
+#financialcoach,"['financial', 'coach']"
+#financialadvisor,"['financial', 'advisor']"
+#moneytips,"['money', 'tips']"
+#wealthmanagement,"['wealth', 'management']"
+#moneymanagement,"['money', 'management']"
+#retirementplanning,"['retirement', 'planning']"
+#financialhealth,"['financial', 'health']"
+#financialsuccess,"['financial', 'success']"
+#financialindependence,"['financial', 'independence']"
+#savings,['savings']
+#moneytalks,"['money', 'talks']"
+#financialstrategy,"['financial', 'strategy']"
+#webdesign,"['web', 'design']"
+#websitedesign,"['website', 'design']"
+#webdevelopment,"['web', 'development']"
+#webdesigner,"['web', 'designer']"
+#webdesigners,"['web', 'designers']"
+#webdesigning,"['web', 'designing']"
+#uiux,['UI/UX']
+#webdesigninspiration,"['web', 'design', 'inspiration']"
+#webdesigncommunity,"['web', 'design', 'community']"
+#webdesignagency,"['web', 'design', 'agency']"
+#webdesignideas,"['web', 'design', 'ideas']"
+#webdesignservices,"['web', 'design', 'services']"
+#webdesignstudio,"['web', 'design', 'studio']"
+#webdesignersofinstagram,"['web', 'designers', 'of', 'Instagram']"
+#webdesignerslife,"['web', 'designers', 'life']"
+#webdesignclient,"['web', 'design', 'client']"
+#webdesignersworld,"['web', 'designers', 'world']"
+#webdesignblog,"['web', 'design', 'blog']"
+#webdesigninspo,"['web', 'design', 'inspo']"
+#responsive,['responsive']
+#blockchain,['blockchain']
+#bitcoin,['bitcoin']
+#cryptocurrency,['cryptocurrency']
+#ethereum,['ethereum']
+#blockchaintechnology,"['blockchain', 'technology']"
+#blockchaindeveloper,"['blockchain', 'developer']"
+#crypto,['crypto']
+#altcoins,['altcoins']
+#decentralized,['decentralized']
+#smartcontracts,"['smart', 'contracts']"
+#cryptoworld,"['crypto', 'world']"
+#bitcoinmining,"['bitcoin', 'mining']"
+#cryptoexchange,"['crypto', 'exchange']"
+#bitcoinnews,"['bitcoin', 'news']"
+#blockchainnews,"['blockchain', 'news']"
+#cryptomarket,"['crypto', 'market']"
+#blockchainrevolution,"['blockchain', 'revolution']"
+#digitalcurrency,"['digital', 'currency']"
+#cryptonews,"['crypto', 'news']"
+#cryptocurrencytrading,"['cryptocurrency', 'trading']"
+#cryptoinvestor,"['crypto', 'investor']"
+#cryptotrading,"['crypto', 'trading']"
+#cryptocurrencynews,"['cryptocurrency', 'news']"
+#cryptowallet,"['crypto', 'wallet']"
+#cryptomining,"['crypto', 'mining']"
+#cryptocurrencycommunity,"['cryptocurrency', 'community']"
+#cryptosignals,"['crypto', 'signals']"
+#cryptoinvestment,"['crypto', 'investment']"
+#bitcointrading,"['bitcoin', 'trading']"
+#cryptocurrencytrader,"['cryptocurrency', 'trader']"
+#cryptomarketcap,"['crypto', 'market', 'cap']"
+#cryptotechnology,"['crypto', 'technology']"
+#cryptotraders,"['crypto', 'traders']"
+#cryptoinfluencer,"['crypto', 'influencer']"
+#cryptoart,"['crypto', 'art']"
+#cryptos,['cryptos']
+#cryptocurrencies,['cryptocurrencies']
+#charity,['charity']
+#nonprofit,['nonprofit']
+#givingback,"['giving', 'back']"
+#volunteer,['volunteer']
+#donate,['donate']
+#philanthropy,['philanthropy']
+#charitywork,"['charity', 'work']"
+#nonprofitorganization,"['nonprofit', 'organization']"
+#charityevent,"['charity', 'event']"
+#fundraising,['fundraising']
+#nonprofits,['nonprofits']
+#charitychallenge,"['charity', 'challenge']"
+#volunteering,['volunteering']
+#nonprofitsofinstagram,"['nonprofits', 'on', 'Instagram']"
+#charityfundraiser,"['charity', 'fundraiser']"
+#giveback,"['give', 'back']"
+#dogood,"['do', 'good']"
+#nonprofitlife,"['nonprofit', 'life']"
+#charitable,['charitable']
+#charityday,"['charity', 'day']"
+#banking,['banking']
+#bank,['bank']
+#bankaccount,"['bank', 'account']"
+#banker,['banker']
+#bankers,['bankers']
+#onlinebanking,"['online', 'banking']"
+#banklife,"['bank', 'life']"
+#bankloan,"['bank', 'loan']"
+#bankcard,"['bank', 'card']"
+#bankmarketing,"['bank', 'marketing']"
+#bankvault,"['bank', 'vault']"
+#banknotes,['banknotes']
+#bankcardrewards,"['bank', 'card', 'rewards']"
+#bankerlife,"['banker', 'life']"
+#bankcarddesign,"['bank', 'card', 'design']"
+#bankcardloans,"['bank', 'card', 'loans']"
+#bankcardart,"['bank', 'card', 'art']"
+#bankcards,"['bank', 'cards']"
+#bankcardholder,"['bank', 'card', 'holder']"
+#bankcardoffers,"['bank', 'card', 'offers']"
+#insurance,['insurance']
+#insuranceagent,"['insurance', 'agent']"
+#insurancebroker,"['insurance', 'broker']"
+#insurancepolicy,"['insurance', 'policy']"
+#insurancecompany,"['insurance', 'company']"
+#carinsurance,"['car', 'insurance']"
+#lifeinsurance,"['life', 'insurance']"
+#homeinsurance,"['home', 'insurance']"
+#healthinsurance,"['health', 'insurance']"
+#businessinsurance,"['business', 'insurance']"
+#autoinsurance,"['auto', 'insurance']"
+#travelinsurance,"['travel', 'insurance']"
+#insuranceclaim,"['insurance', 'claim']"
+#insuranceagency,"['insurance', 'agency']"
+#insurancecoverage,"['insurance', 'coverage']"
+#insuranceadjuster,"['insurance', 'adjuster']"
+#insuranceindustry,"['insurance', 'industry']"
+#insuranceadvice,"['insurance', 'advice']"
+#insuranceservices,"['insurance', 'services']"
+#insurancepremium,"['insurance', 'premium']"
+#realestate,"['real', 'estate']"
+#realtor,['realtor']
+#realestateagent,"['real', 'estate', 'agent']"
+#realestateinvestor,"['real', 'estate', 'investor']"
+#realestateinvesting,"['real', 'estate', 'investing']"
+#realestatephotography,"['real', 'estate', 'photography']"
+#realestatebroker,"['real', 'estate', 'broker']"
+#realestateforsale,"['real', 'estate', 'for', 'sale']"
+#realestateexperts,"['real', 'estate', 'experts']"
+#realestateinvestment,"['real', 'estate', 'investment']"
+#realestateproperties,"['real', 'estate', 'properties']"
+#realestatemarketing,"['real', 'estate', 'marketing']"
+#realestatephotographer,"['real', 'estate', 'photographer']"
+#realestateagents,"['real', 'estate', 'agents']"
+#realestateconsultant,"['real', 'estate', 'consultant']"
+#realestatecoach,"['real', 'estate', 'coach']"
+#realestateadvice,"['real', 'estate', 'advice']"
+#realestateusa,"['real', 'estate', 'USA']"
+#realestatebrokerage,"['real', 'estate', 'brokerage']"
+#realestateprofessional,"['real', 'estate', 'professional']"
+#automotive,['automotive']
+#car,['car']
+#cars,['cars']
+#carsofinstagram,"['cars', 'on', 'Instagram']"
+#carstagram,['carstagram']
+#carlovers,"['car', 'lovers']"
+#carporn,"['car', 'porn']"
+#carphotography,"['car', 'photography']"
+#carlifestyle,"['car', 'lifestyle']"
+#caroftheday,"['car', 'of', 'the', 'day']"
+#carclub,"['car', 'club']"
+#carcommunity,"['car', 'community']"
+#carinstagram,"['car', 'Instagram']"
+#carculture,"['car', 'culture']"
+#carsovereverything,"['cars', 'over', 'everything']"
+#carlife,"['car', 'life']"
+#carswithoutlimits,"['cars', 'without', 'limits']"
+#carpics,"['car', 'pics']"
+#cargram,['cargram']
+#carscene,"['car', 'scene']"
+#fashion,['fashion']
+#beautiful,['beautiful']
