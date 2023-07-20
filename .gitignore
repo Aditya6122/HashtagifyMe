@@ -167,4 +167,5 @@ insta_scrape
 *.pdf
 .csv
 *.pth
+*.pt
 credentials.py

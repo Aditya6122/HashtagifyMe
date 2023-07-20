@@ -41,9 +41,7 @@ def get_hashtag_data(hashtag,driver):
     for i in range(num_posts):
         post = {}
         given_hashtags = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//a[@class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz  _aa9_ _a6hd"]')))
-        # given_hashtags = driver.find_elements(By.XPATH, '//a[@class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz  _aa9_ _a6hd"]')
         img = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//img[@class="x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3"]')))
-        #img = driver.find_elements(By.XPATH, '//img[@class="x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3"]')
         img = img[i]
         post['hashtag'] = hashtag
         post['other_hashtags'] = [i.text for i in given_hashtags]
@@ -53,7 +51,6 @@ def get_hashtag_data(hashtag,driver):
             posts.append(post)
         try:
             WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//div[@class=" _aaqg _aaqh"]')))[-1].click()
-            #driver.find_elements(By.XPATH, '//div[@class=" _aaqg _aaqh"]')[-1].click()
         except:
             print('early')
         time.sleep(2)

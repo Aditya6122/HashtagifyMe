@@ -22,18 +22,24 @@ def get_inference(url):
 
     inputs = processor(raw_image, return_tensors="pt").to(device)
 
-    multiple_output = model.generate(**inputs,max_length=15,do_sample=True,num_return_sequences=3)
-    caption = processor.batch_decode(multiple_output,skip_special_tokens=True)
+    outputs = model.generate(
+                                **inputs,
+                                do_sample=True,
+                                num_return_sequences=5,
+                                max_length=20,
+                                temperature=0.7,
+                                top_k=3
+                            )
 
-    hashtags = set()
+    caption = processor.batch_decode(outputs, skip_special_tokens=True)
+
+    keywords = []
     for i in caption:
-        i = i.split(',')
-        for j in i:
-            j = j.replace(' ','')
-            hashtags.add('#'+j)
+        for j in i.split(','):
+            keywords.append(j.strip())
 
-    return hashtags
-
+    keywords = set(i for i in keywords if i)
+    return keywords
 
 if __name__ == '__main__':
     print(get_inference('https://imgd.aeplcdn.com/1056x594/n/cw/ec/44686/activa-6g-right-front-three-quarter.jpeg?q=75'))
