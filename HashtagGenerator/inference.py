@@ -6,10 +6,11 @@ try:
 except:
     import model_utils
 
-processor = model_utils.load_processor()
-model = model_utils.load_model(from_local=True)
-
 device = "cuda" if torch.cuda.is_available() else "cpu"
+
+processor = model_utils.load_processor()
+model = model_utils.load_model(device, from_local=True)
+
 model.to(device)
 model.eval()
 
@@ -36,7 +37,7 @@ def get_inference(url):
     keywords = []
     for i in caption:
         for j in i.split(','):
-            keywords.append(j.strip())
+            keywords.append(j.replace(" ",""))
 
     keywords = set(i for i in keywords if i)
     return keywords

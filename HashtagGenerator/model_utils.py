@@ -13,7 +13,7 @@ def load_processor():
     processor = AutoProcessor.from_pretrained(model_url)
     return processor
 
-def load_model(from_local=True):
+def load_model(device,from_local=True):
     config = AutoConfig.from_pretrained(model_url)
 
     if from_local:
@@ -28,7 +28,7 @@ def load_model(from_local=True):
                 raise Exception('Some unknown exception occured while fetching the remote model file. \n \
                     Check if file is present on the remote location')
         
-        model.load_state_dict(torch.load(local_path))
+        model.load_state_dict(torch.load(local_path,map_location=device))
         return model
 
     warnings.warn("You are about to download the original \"BlipForConditionalGeneration\"\n \

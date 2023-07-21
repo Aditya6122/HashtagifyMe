@@ -5,9 +5,6 @@ from InstagramScraping import credentials
 from HashtagGenerator.inference import get_inference
 from InstagramScraping.webdrivers import WebDriver
 
-driver = WebDriver(credentials.USERNAME,credentials.PASSWORD)
-driver.login_instagram()
-
 app=Flask(__name__)
 CORS(app)
 
@@ -24,4 +21,6 @@ def predict():
      return hashtags
 
 if __name__ == '__main__':
-    app.run(port=5000,debug=True)
+     driver = WebDriver()
+     driver.login_instagram(credentials.USERNAME,credentials.PASSWORD)
+     app.run(port=5000)

@@ -167,4 +167,7 @@ insta_scrape
 *.pdf
 *.pth
 *.pt
+*.csv
+*.ipynb
 credentials.py
+*.png
