@@ -22,8 +22,8 @@ def load_model(device,from_local=True):
             print("No local model file found !!")
             print("Initiate to download from drive")
             try:
-                remote_model_path = 'https://drive.google.com/uc?id=1vxmwsSSUQ0MTjfQ2uSAc9J96ezuoh9aa'
-                gdown.download(url=remote_model_path ,output=local_path,quiet=False,fuzzy=True)
+                remote_model_path = '1vxmwsSSUQ0MTjfQ2uSAc9J96ezuoh9aa'
+                gdown.download(id=remote_model_path ,output=local_path,quiet=False,verify=False)
             except:
                 raise Exception('Some unknown exception occured while fetching the remote model file. \n \
                     Check if file is present on the remote location')
