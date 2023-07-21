@@ -23,9 +23,6 @@ jobs:
       with:
         python-version: '3.7'
 
-    - name: Create model directory
-      run: mkdir -p model
-
     - name: Setup ChromeDriver
       uses: nanasess/setup-chromedriver@v2
       with:
