@@ -5,8 +5,10 @@ from conceptual_caption_custom import collate_fn
 import torch
 from tqdm import tqdm
 
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
 processor = model_utils.load_processor()
-model = model_utils.load_model(from_local=True)
+model = model_utils.load_model(device, from_local=True)
 
 train_dataset = get_train_dataset(processor)
 
@@ -15,7 +17,6 @@ NUM_WORKERS = 0
 
 train_dataloader =  DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True, num_workers=NUM_WORKERS,pin_memory=True, collate_fn = lambda batch :collate_fn(batch, train_dataset, batch_size=BATCH_SIZE))
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 model.train()
 
