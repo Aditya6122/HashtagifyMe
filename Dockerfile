@@ -8,5 +8,5 @@ ENV INSTA_PASSWORD=$INSTA_PASSWORD
 
 COPY . /app
 WORKDIR /app
-RUN pip3 install -r loca_env.txt
+RUN pip3 install -r local_env.txt
 CMD gunicorn --bind 0.0.0.0:5000 main:app
