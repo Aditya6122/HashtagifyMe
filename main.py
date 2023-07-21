@@ -3,7 +3,7 @@ from flask_cors import CORS
 from PIL import Image
 from InstagramScraping import credentials
 from HashtagGenerator.inference import get_inference
-from InstagramScraping.get_trending_hashtags import WebDriver
+from InstagramScraping.webdrivers import WebDriver
 
 driver = WebDriver(credentials.USERNAME,credentials.PASSWORD)
 driver.login_instagram()
