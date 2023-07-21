@@ -31,8 +31,7 @@ class WebDriver:
             not_now = WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//button[@class="_a9-- _a9_1"]')))
             not_now.click()
         except:
-            print("Get notifications pop up didn't showed up or not found")
-            
+            print("Get notifications pop up didn't showed up or not found")        
     
     def get_search_bar(self):
         self.driver.set_window_size(width=720, height=1000)

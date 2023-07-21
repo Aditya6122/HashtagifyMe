@@ -165,7 +165,6 @@ cython_debug/
 hashtagify_me
 insta_scrape
 *.pdf
-.csv
 *.pth
 *.pt
 credentials.py
