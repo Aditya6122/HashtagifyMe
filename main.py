@@ -1,9 +1,12 @@
 from flask import Flask, request, render_template
 from flask_cors import CORS
 from PIL import Image
-from InstagramScraping import credentials
 from HashtagGenerator.inference import get_inference
 from InstagramScraping.webdrivers import WebDriver
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app=Flask(__name__)
 CORS(app)
@@ -22,5 +25,7 @@ def predict():
 
 if __name__ == '__main__':
      driver = WebDriver()
-     driver.login_instagram(credentials.USERNAME,credentials.PASSWORD)
+     instagram_username = os.getenv('INSTA_USERNAME')
+     instagram_password = os.getenv('INSTA_PASSWORD')
+     driver.login_instagram(instagram_username,instagram_password)
      app.run(port=5000)
