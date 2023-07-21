@@ -44,7 +44,8 @@ jobs:
 
     - name: Run Container
       run: |
-        docker run -p 5000:5000 -d docker-flask-test
+        docker run -p 5000:5000 -d --name my_container docker-flask-test
+        docker logs -f my_container
     
     - name: Install requests
       run: pip install requests
