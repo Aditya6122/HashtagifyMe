@@ -7,3 +7,4 @@ gunicorn
 requests
 gdown
 python-dotenv
+selenium
