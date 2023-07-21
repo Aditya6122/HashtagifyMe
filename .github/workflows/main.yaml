@@ -39,9 +39,6 @@ jobs:
           --build-arg INSTAGRAM_PASSWORD=${{ secrets.PASSWORD }} 
           -t docker-flask-test .
 
-    - name: Create model directory
-      run: mkdir -p model
-
     - name: Run Container
       run: |
         docker run -p 5000:5000 -d --name my_container docker-flask-test
