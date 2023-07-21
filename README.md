@@ -1,4 +1,3 @@
-
 ## HashtagifyMe
 
 A webapp that generates hashtags based on the image sentiment and trends of instagram.
@@ -74,6 +73,8 @@ http://127.0.0.1:5000/
 ```
 - Choose an Image
 - Click on Submit
- 
+
+![image](https://github.com/Aditya6122/HashtagifyMe/assets/78961497/1c036ca9-d368-4e41-be17-3828c6523129)
+
 🎉🎉 Hurray !!! It's Working...
 
