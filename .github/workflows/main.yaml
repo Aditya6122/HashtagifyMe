@@ -33,13 +33,16 @@ jobs:
         sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional  
 
     - name: Build Docker Image
-      run: docker build 
+      run: docker build
+          --progress=plain 
           --build-arg INSTAGRAM_USERNAME=${{ secrets.USERNAME }} 
           --build-arg INSTAGRAM_PASSWORD=${{ secrets.PASSWORD }} 
           -t docker-flask-test .
 
     - name: Run Container
-      run: docker run -p 5000:5000 -d docker-flask-test
+      run: |
+        docker run -p 5000:5000 -d docker-flask-test
+        docker logs -f docker-flask-test
     
     - name: Install requests
       run: pip install requests
