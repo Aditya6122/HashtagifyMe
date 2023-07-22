@@ -27,5 +27,6 @@ if __name__ == '__main__':
      driver = WebDriver()
      instagram_username = os.getenv('INSTA_USERNAME')
      instagram_password = os.getenv('INSTA_PASSWORD')
+     print("logging in to instagram")
      driver.login_instagram(instagram_username,instagram_password)
      app.run(port=5000)
