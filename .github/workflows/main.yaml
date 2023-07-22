@@ -35,8 +35,8 @@ jobs:
     - name: Build Docker Image
       run: docker build
           --progress=plain 
-          --build-arg INSTAGRAM_USERNAME=${{ secrets.USERNAME }} 
-          --build-arg INSTAGRAM_PASSWORD=${{ secrets.PASSWORD }} 
+          --build-arg INSTA_USERNAME=${{ secrets.USERNAME }} 
+          --build-arg INSTA_PASSWORD=${{ secrets.PASSWORD }} 
           -t docker-flask-test .
 
     - name: Run Container
