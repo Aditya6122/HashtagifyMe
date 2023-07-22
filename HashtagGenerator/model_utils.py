@@ -5,7 +5,6 @@ import os
 import gdown
 import warnings
 import torch
-import urllib3
 
 local_path = 'model/best_model.pth'
 model_url = 'Salesforce/blip-image-captioning-base'
