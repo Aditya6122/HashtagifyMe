@@ -15,8 +15,10 @@ def load_processor():
 
 def load_model(device,from_local=True):
     config = AutoConfig.from_pretrained(model_url)
+    print("Model config loaded successfully")
 
     if from_local:
+        print(os.listdir())
         model =  BlipForConditionalGeneration(config)
         if not os.path.isfile(local_path):
             print("No local model file found !!")
