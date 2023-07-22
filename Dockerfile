@@ -1,7 +1,7 @@
 FROM python:3.7
-RUN apt-get update && apt-get install -y git
+RUN apt-get update
 
-RUN apt-get install -y chromium-browser
+RUN apt-get install -y chromium
 
 ARG INSTA_USERNAME
 ARG INSTA_PASSWORD
