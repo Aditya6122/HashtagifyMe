@@ -1,6 +1,6 @@
 from transformers import BlipForConditionalGeneration
 from transformers import AutoProcessor
-from transformers import AutoConfig
+from transformers import BlipConfig
 import os
 import gdown
 import warnings
@@ -15,7 +15,7 @@ def load_processor():
 
 def load_model(device,from_local=True):
     print("Initiating to load model config")
-    config = AutoConfig.from_pretrained('Salesforce/blip-image-captioning-base')
+    config = BlipConfig.from_pretrained('Salesforce/blip-image-captioning-base')
     print("Model config loaded successfully")
 
     if from_local:
