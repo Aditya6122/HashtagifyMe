@@ -28,7 +28,9 @@ def load_model(device,from_local=True):
                 raise Exception('Some unknown exception occured while fetching the remote model file. \n \
                     Check if file is present on the remote location')
         
+        print("Loading model from local path")
         model.load_state_dict(torch.load(local_path,map_location=device))
+        print("Model state dict loaded successfully")
         return model
 
     warnings.warn("You are about to download the original \"BlipForConditionalGeneration\"\n \

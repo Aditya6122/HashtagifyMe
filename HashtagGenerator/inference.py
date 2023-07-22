@@ -7,9 +7,15 @@ except:
     import model_utils
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
+print("Selected Device: ",device)
 
+print("Initiating to load processor")
 processor = model_utils.load_processor()
+print("processor loaded successfully")
+
+print("Initiating to load model")
 model = model_utils.load_model(device, from_local=True)
+print("model loaded successfully")
 
 model.to(device)
 model.eval()
