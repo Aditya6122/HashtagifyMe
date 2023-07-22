@@ -15,7 +15,7 @@ def load_processor():
 
 def load_model(device,from_local=True):
     print("Initiating to load model config")
-    config = BlipConfig.from_pretrained('Salesforce/blip-image-captioning-base')
+    config = BlipConfig()
     print("Model config loaded successfully")
 
     if from_local:
