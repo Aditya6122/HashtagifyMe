@@ -15,4 +15,5 @@ RUN mkdir -p model
 RUN gdown --id 1vxmwsSSUQ0MTjfQ2uSAc9J96ezuoh9aa -O /app/model/best_model.pth
 RUN python model_load.py
 
-CMD gunicorn --bind 0.0.0.0:5000 main:app
+CMD ["python", "main.py"]
+# CMD gunicorn --bind 0.0.0.0:5000 main:app
