@@ -1,6 +1,6 @@
 from transformers import BlipForConditionalGeneration
 from transformers import AutoProcessor
-from transformers import BlipConfig
+from transformers import AutoConfig
 import os
 import gdown
 import warnings
@@ -15,7 +15,7 @@ def load_processor():
 
 def load_model(device,from_local=True):
     print("Initiating to load model config")
-    config = BlipConfig()
+    config = AutoConfig.from_pretrained(model_url)
     print("Model config loaded successfully")
 
     if from_local:
